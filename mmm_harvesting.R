@@ -381,7 +381,7 @@ mmm_create_iso19115 <- function(meta_dkan, shp_params){
   # md$addDataQualityInfo(dq)
 
   #XML representation of the ISOMetadata
-  xml <- md$encode()
+  # xml <- md$encode()
 
   md$save(paste0("xml_metadata/mmm/",meta_dkan$result$id,".xml"))
 
@@ -397,7 +397,7 @@ mmm_push_metadata <- function(meta_dkan){
 }
 
 
-identifier = "14aefe94-fdbe-4383-a860-051b54c41879"
+identifier = "7e090ef5-f167-4264-8204-e5d8219617e4"
 
 meta_dkan <- mmm_get_meta(identifier)
 
@@ -411,7 +411,8 @@ mmm_push_metadata(meta_dkan)
 
 
 
-
+## styles
+created <- GSman$createStyle(file = "styles/mmm/local-climate-zone.sld", name = "local-climate-zone")
 
 
 

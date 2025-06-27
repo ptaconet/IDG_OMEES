@@ -1,5 +1,3 @@
-
-
 library(httr)
 library(xml2)
 library(XML)
@@ -21,19 +19,23 @@ xml_doc <- read_xml(xml_content)
 # 4. Save it locally
 writeLines(xml_content, paste0("xml_metadata/copernicus/",identifier,".xml"))
 
-xml <- xmlParse(paste0("xml_metadata/copernicus/",identifier,".xml"))
-md <- ISOMetadata$new(xml = xml)
+#adding keywords
+# à faire à la main pour l'instant... en attendant de comprendre comment on le fait avec geometa
+#  <gmd:keyword>
+# <gco:CharacterString>omees</gco:CharacterString>
+#  </gmd:keyword>
 
-#adding extent
-ident <- ISODataIdentification$new()
-
-extent <- ISOExtent$new()
-bbox <- ISOGeographicBoundingBox$new(minx = as.numeric(shp_params$bbox$xmin), miny = as.numeric(shp_params$bbox$ymin), maxx = as.numeric(shp_params$bbox$xmax), maxy = as.numeric(shp_params$bbox$ymax))
-extent$addGeographicElement(bbox)
-ident$addExtent(extent)
-
-md$addIdentificationInfo(ident)
-
+ # xml <- xmlParse(paste0("xml_metadata/copernicus/",identifier,".xml"))
+ # md <- ISOMetadata$new(xml = xml)
+ #
+ # ident <- ISODataIdentification$new()
+ # kwds <- ISOKeywords$new()
+ # kwds$addKeyword("omees")
+ # ident$addKeywords(kwds)
+ # md$addIdentificationInfo(ident)
+ #
+ # md$save(paste0("xml_metadata/copernicus/",identifier,".xml"))
+ #
 
 GN <- GNManager$new(
   url = "https://geodata.bac-a-sable.inrae.fr/geonetwork",
@@ -42,4 +44,4 @@ GN <- GNManager$new(
   logger = 'DEBUG'
 )
 
-created = GN$insertMetadata(file = "xml_metadata/copernicus/a8e683b1-2f96-45c8-827f-580a79413018.xml", group = "1", category = "datasets")
+created = GN$insertMetadata(file = paste0("xml_metadata/copernicus/",identifier,".xml"), group = "1", category = "datasets")

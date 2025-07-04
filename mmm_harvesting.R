@@ -4,31 +4,21 @@ library(geosapi)
 library(geonapi)
 library(sf)
 
-mmm_identifiers <- c("ca874786-dbf8-47cb-a51b-7a5a003dfadc",
-                     "d718a1c4-95b1-46a6-ad3b-558e03577581",
-                     "3408ffbc-74ef-4456-bbdb-6e2d805f890f",
-                     "14a8d220-345e-474e-a31a-7eacf68f0b74",
-                     "7e090ef5-f167-4264-8204-e5d8219617e4",
-                     "f3246317-a3ce-457d-837a-4c99a336cd9e",
-                     "ea68bf94-0f14-4b4b-abc4-d562e598ecec")
 
 # tout le catalogue :
 # meta_dkan_catalogue = rjson::fromJSON(file = "https://data.montpellier3m.fr/data.json")
 
 
-# à faire en systèmatique dans la fonction (pour chaque entité de métadonnée)
-#txt = textutils::HTMLdecode(a)
-
 GN <- GNManager$new(
   url = "https://geodata.bac-a-sable.inrae.fr/geonetwork",
-  user = "omees", pwd = "HHKcue51!HHKcue51!",
+  user = Sys.getenv("idgomees_inrae_user"), pwd = Sys.getenv("idgomees_inrae_pw"),
   version = "4.2.8",
   logger = 'DEBUG'
 )
 
 GSman <- GSManager$new(
   url = "https://geodata.bac-a-sable.inrae.fr/geoserver",
-  user = "omees", pwd = "HHKcue51!HHKcue51!",
+  user = Sys.getenv("idgomees_inrae_user"), pwd = Sys.getenv("idgomees_inrae_pw"),
   logger = 'DEBUG'
 )
 
@@ -397,6 +387,14 @@ mmm_push_metadata <- function(meta_dkan){
 }
 
 
+# mmm_identifiers <- c("ca874786-dbf8-47cb-a51b-7a5a003dfadc",
+#                      "d718a1c4-95b1-46a6-ad3b-558e03577581",
+#                      "3408ffbc-74ef-4456-bbdb-6e2d805f890f",
+#                      "14a8d220-345e-474e-a31a-7eacf68f0b74",
+#                      "7e090ef5-f167-4264-8204-e5d8219617e4",
+#                      "f3246317-a3ce-457d-837a-4c99a336cd9e",
+#                      "ea68bf94-0f14-4b4b-abc4-d562e598ecec")
+
 identifier = "7e090ef5-f167-4264-8204-e5d8219617e4"
 
 meta_dkan <- mmm_get_meta(identifier)
@@ -412,7 +410,7 @@ mmm_push_metadata(meta_dkan)
 
 
 ## styles
-created <- GSman$createStyle(file = "styles/mmm/local-climate-zone.sld", name = "local-climate-zone")
+# created <- GSman$createStyle(file = "styles/mmm/local-climate-zone.sld", name = "local-climate-zone")
 
 
 

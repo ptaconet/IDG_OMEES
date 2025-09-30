@@ -11,14 +11,14 @@ library(sf)
 
 GN <- GNManager$new(
   url = "https://geodata.bac-a-sable.inrae.fr/geonetwork",
-  user = Sys.getenv("idgomees_inrae_user"), pwd = Sys.getenv("idgomees_inrae_pw"),
+  user = Sys.getenv("**"), pwd = Sys.getenv("**"),
   version = "4.2.8",
   logger = 'DEBUG'
 )
 
 GSman <- GSManager$new(
   url = "https://geodata.bac-a-sable.inrae.fr/geoserver",
-  user = Sys.getenv("idgomees_inrae_user"), pwd = Sys.getenv("idgomees_inrae_pw"),
+  user = Sys.getenv("**"), pwd = Sys.getenv("**"),
   logger = 'DEBUG'
 )
 

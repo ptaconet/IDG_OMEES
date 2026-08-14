@@ -3,22 +3,10 @@ library(geometa)
 
 ddi_create_iso19115 <- function(
     identifier,
-    output_dir ,
-    catalogue_url,
-    catalogue_name,
-    topic_categories = NULL,
-    add_omees_keyword = TRUE
+    catalogue_url
 ){
 
   geometa::setMetadataStandard("19139")
-
-  lineage_statement <- paste0(
-    "<b><i>Cette fiche de métadonnée et les éventuelle(s) donnée(s) associées ont été moissonnée(s) automatiquement depuis le jeu de données ",
-    "https://doi.org/",
-    identifier %||% "",
-    " hébergé sur le catalogue ",catalogue_name," (",catalogue_url,")</b></i>",
-    "\n"
-  )
 
 
   # ============================================================
@@ -407,10 +395,7 @@ ddi_create_iso19115 <- function(
 
   if(!is.na(abstract)){
     if (!is.null(abstract) && nzchar(abstract)) {
-      ident$setAbstract(paste0(abstract,
-                               "<p>",
-                               lineage_statement,
-                               "</p>"))
+      ident$setAbstract(abstract)
     }
   }
 
@@ -536,10 +521,6 @@ ddi_create_iso19115 <- function(
     }
   }
 
-
-  if(add_omees_keyword){
-    kwds$addKeyword("omees")
-  }
 
   kwds$addKeyword("PROGEDO")
 
@@ -711,7 +692,6 @@ ddi_create_iso19115 <- function(
 
   dto$addOnlineResource(or)
 
-
   # Original OAI record
   or <- ISOOnlineResource$new()
 
@@ -728,20 +708,6 @@ ddi_create_iso19115 <- function(
 
   md$setDistributionInfo(distrib)
 
+  return(md)
 
-  # ============================================================
-  # 12. SAVE / RETURN
-  # ============================================================
-
-  if(!is.null(output_dir)){
-
-    output_file <- file.path(
-      output_dir,
-      paste0(safe_filename(identifier), ".xml")
-    )
-
-    md$save(output_file)
-  }
-
-  return(output_file)
 }

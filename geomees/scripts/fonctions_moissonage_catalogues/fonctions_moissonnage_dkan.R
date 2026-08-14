@@ -25,15 +25,15 @@ dkan_get_shp <- function(meta_dkan){
 
   for(i in 1:length(meta_dkan$result$resources)){
     if(meta_dkan$result$resources[[i]]$mimetype == "application/zip"){
-      download.file(url = meta_dkan$result$resources[[i]]$url , destfile = paste0("data/mmm/",meta_dkan$result$resources[[i]]$name))
+      download.file(url = meta_dkan$result$resources[[i]]$url , destfile = paste0("geomees/data/",meta_dkan$result$resources[[i]]$name))
   #     break()
   #   }
   # }
 
   # Reading shapefiles (or other data sources) directly from zip files can be done by prepending the path with /vsizip/
-  shp <- read_sf(paste0("/vsizip/data/mmm/",meta_dkan$result$resources[[i]]$name))
+  shp <- read_sf(paste0("/vsizip/geomees/data/",meta_dkan$result$resources[[i]]$name))
 
-  shp_layer_name <- st_layers(paste0("/vsizip/data/mmm/",meta_dkan$result$resources[[i]]$name))$name
+  shp_layer_name <- st_layers(paste0("/vsizip/geomees/data/",meta_dkan$result$resources[[i]]$name))$name
   crs = st_crs(shp)$epsg
   if(is.na(crs)){
     crs <- 2154
@@ -63,7 +63,7 @@ dkan_create_featuretype <- function(meta_dkan, shp_params){
   uploaded <- GSman$uploadShapefile(
     ws = "omees", ds = "couches_omees",
     endpoint = "file", configure = "first", update = "overwrite",
-    charset = "UTF-8", filename = paste0("data/mmm/",shp_params$shp_path)
+    charset = "UTF-8", filename = paste0("geomees/data/",shp_params$shp_path)
   )
 
     #update featuretype
@@ -95,16 +95,7 @@ dkan_create_featuretype <- function(meta_dkan, shp_params){
 }
 
 
-dkan_create_iso19115 <- function(meta_dkan, output_dir, shp_params, topic_categories, catalogue_name, catalogue_url){
-
-
-  lineage_statement <- paste(
-    "<b><i>Cette fiche de métadonnée et les éventuelle(s) donnée(s) associées ont été moissonnée(s) automatiquement depuis le jeu de données",
-    meta_dkan$result$url %||% "",
-    "hébergé sur le catalogue ",catalogue_name," (",catalogue_url,")</b></i>",
-    "\n"
-  )
-
+dkan_create_iso19115 <- function(meta_dkan, shp_params, catalogue_url){
 
   md = ISOMetadata$new()
   md$setFileIdentifier(meta_dkan$result$name) # alternative : meta_dkan$result$id
@@ -176,10 +167,7 @@ dkan_create_iso19115 <- function(meta_dkan, output_dir, shp_params, topic_catego
 
   #data identification
   ident <- ISODataIdentification$new()
-  ident$setAbstract(paste0(textutils::HTMLdecode(meta_dkan$result$notes),
-                           "<p>",
-                           lineage_statement,
-                           "</p>"))
+  ident$setAbstract(paste0(textutils::HTMLdecode(meta_dkan$result$notes)))
 
   #ident$setPurpose("purpose")
   #ident$addCredit("Open Data Montpellier Méditerrannée Métropole")
@@ -187,9 +175,6 @@ dkan_create_iso19115 <- function(meta_dkan, output_dir, shp_params, topic_catego
   ident$addLanguage("fre")
   ident$addCharacterSet("utf8")
   #ident$addTopicCategory("biota")
-  for (topic in topic_categories) {
-    ident$addTopicCategory(topic)
-  }
 
   #citation
   ct <- ISOCitation$new()
@@ -204,14 +189,6 @@ dkan_create_iso19115 <- function(meta_dkan, output_dir, shp_params, topic_catego
   ct$addCitedResponsibleParty(rp)
   ident$setCitation(ct)
 
-  #graphic overview
-
-  go1 <- ISOBrowseGraphic$new(
-    fileName = "https://upload.wikimedia.org/wikipedia/fr/e/e0/Logo_Montpellier_M%C3%A9diterran%C3%A9e_M%C3%A9tropole.svg",
-    fileDescription = "3M logo",
-    fileType = "image/svg"
-  )
-  ident$addGraphicOverview(go1)
 
   # go2 <- ISOBrowseGraphic$new(
   #   fileName = paste0("https://geodata.bac-a-sable.inrae.fr/geoserver/omees/wms?service=WMS&version=1.1.0&request=GetMap&layers=omees:",shp_params$shp_layer_name,"&bbox=",as.numeric(shp_params$bbox$xmin),",",as.numeric(shp_params$bbox$ymin),",",as.numeric(shp_params$bbox$xmax),",",as.numeric(shp_params$bbox$ymax),"&width=768&height=658&srs=EPSG:",shp_params$crs,"&styles=&format=image/png"),
@@ -339,18 +316,17 @@ dkan_create_iso19115 <- function(meta_dkan, output_dir, shp_params, topic_catego
   scope$setLevel("dataset")
   dq$setScope(scope)
 
-  lineage <- ISOLineage$new()
-  lineage$setStatement(trimws(lineage_statement))
-  dq$setLineage(lineage)
+  # lineage <- ISOLineage$new()
+  # lineage$setStatement(trimws(lineage_statement))
+  # dq$setLineage(lineage)
 
   md$addDataQualityInfo(dq)
 
+
+  return(md)
+
   #XML representation of the ISOMetadata
   # xml <- md$encode()
-
-  md$save(paste0(output_dir,"/",meta_dkan$result$id,".xml"))
-
-  return(paste0(output_dir,"/",meta_dkan$result$id,".xml"))
 
 }
 

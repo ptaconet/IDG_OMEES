@@ -2,26 +2,15 @@
 
 dataverse_create_iso19115 <- function(
     identifier,
-    output_dir = "xml_metadata/dataverse",
-    metadata_contact = NULL,
     catalogue_url = NULL,
-    catalogue_name = NULL,
-    additional_online_resources = NULL,
-    topic_categories = NULL,
     default_language = "fre",
-    overwrite = TRUE
+    additional_online_resources = NULL
 ) {
-
-  lineage_statement <- paste0(
-    "<b><i>Cette fiche de métadonnée et les éventuelle(s) donnée(s) associées ont été moissonnée(s) automatiquement depuis le jeu de données ",
-    "https://doi.org/",
-    identifier %||% "",
-    " hébergé sur le catalogue ",catalogue_name," (",catalogue_url,")</b></i>",
-    "\n"
-  )
 
 
   stopifnot(requireNamespace("geometa", quietly = TRUE))
+  geometa::setMetadataStandard("19139")
+
 
   # Classes geometa
   ISOMetadata                  <- geometa::ISOMetadata
@@ -51,7 +40,7 @@ dataverse_create_iso19115 <- function(
   # ---------------------------------------------------------------------------
 
   `%||%` <- function(x, y) {
-    if (is.null(x) || length(x) == 0L || all(is.na(x))) y else x
+    if (is.null(x)  || all(is.na(x))) y else x
   }
 
   first_non_empty <- function(x, default = NULL) {
@@ -526,13 +515,6 @@ dataverse_create_iso19115 <- function(
 
   ident <- ISODataIdentification$new()
 
-  if (!is.null(abstract) && nzchar(abstract)) {
-    ident$setAbstract(paste0(abstract,
-                             "<p>",
-                             lineage_statement,
-                             "</p>"))
-  }
-
   ident$addStatus(
     if (identical(version$versionState, "RELEASED")) {
       "completed"
@@ -544,12 +526,13 @@ dataverse_create_iso19115 <- function(
   ident$addLanguage(metadata_language)
   ident$addCharacterSet("utf8")
 
+
   # ---------------------------------------------------------------------------
   # Citation
   # ---------------------------------------------------------------------------
 
   ct <- ISOCitation$new()
-  ct$setTitle(title %||% identifier)
+  ct$setTitle(paste0(title %||% identifier))
 
   production_date <- safe_date(
     get_dv_field(citation_block, "productionDate")
@@ -695,14 +678,6 @@ dataverse_create_iso19115 <- function(
     )
   }
 
-  # Valeur de repli pertinente pour le bloc observé
-  if (length(topic_categories) == 0L) {
-    topic_categories <- "environment"
-  }
-
-  for (topic in topic_categories) {
-    ident$addTopicCategory(topic)
-  }
 
   # ---------------------------------------------------------------------------
   # Mots-clés libres et mots-clés de thésaurus
@@ -816,10 +791,6 @@ dataverse_create_iso19115 <- function(
 
     ident$addKeywords(kwds)
   }
-
-
-  kwds$addKeyword("omees")
-
 
   # ---------------------------------------------------------------------------
   # Emprise géographique
@@ -1247,36 +1218,8 @@ dataverse_create_iso19115 <- function(
 
   md$addDataQualityInfo(dq)
 
-  # ---------------------------------------------------------------------------
-  # Écriture du XML
-  # ---------------------------------------------------------------------------
+  return(md)
 
-  dir.create(
-    output_dir,
-    recursive = TRUE,
-    showWarnings = FALSE
-  )
-
-  output_file <- file.path(
-    output_dir,
-    paste0(safe_filename(identifier), ".xml")
-  )
-
-  if (file.exists(output_file) && !overwrite) {
-    stop(
-      "Le fichier existe déjà : ",
-      output_file
-    )
-  }
-
-  md$save(output_file)
-
-  invisible(list(
-    metadata = md,
-    identification = ident,
-    output_file = output_file,
-    identifier = identifier
-  ))
 }
 
 

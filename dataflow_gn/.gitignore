@@ -1,0 +1,10 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# credentials
+params/credentials.R
+# libreoffice lock
+params/.~lock*
+params/*.ods

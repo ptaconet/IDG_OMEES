@@ -1,0 +1,89 @@
+  {
+  "id": "omees-publication-workflow-spatial-data",
+  "mode": "entity",
+  "metadata": {
+    "entities": {
+      "handler": "excel",
+      "source": "/home/ptaconet/IDG_OMEES/geomees/entities_spatial.xlsx"
+    },
+    "contacts" : {
+      "handler": "excel",
+      "source": "/home/ptaconet/IDG_OMEES/geomees/contacts.xlsx"
+    }
+  },
+  "software": [
+  {
+        "id": "omees-postgis-database",
+        "type": "input",
+        "software_type": "dbi",
+        "parameters": {
+            "drv": "PostgreSQL",
+            "user": "taconet",
+            "password": "HHKcue51",
+            "host": "postgresql-taconet.alwaysdata.net",
+            "port": "5432",
+            "dbname": "taconet_albopictus"
+        }
+  },
+  {
+        "id": "omees-geoserver-bacasable",
+        "type": "output",
+        "software_type": "geoserver",
+        "parameters": {
+            "url": "https://geodata.bac-a-sable.inrae.fr/geoserver",
+            "user": "omees",
+            "pwd": "N2nw'b}yJ?,9yi)t",
+            "logger": "DEBUG"
+        },
+        "properties" : {
+            "workspace": "omees"
+        }
+  },
+    {
+        "id": "omees-geonetwork-bacasable",
+        "type": "output",
+        "software_type": "geonetwork",
+        "parameters": {
+            "url": "https://geodata.bac-a-sable.inrae.fr/geonetwork",
+            "user": "omees",
+            "pwd": "N2nw'b}yJ?,9yi)t",
+            "version" : "4.2.8",
+            "logger": "DEBUG"
+        }
+  }
+ ],
+ "actions": [
+ {
+     "id": "geometa-create-iso-19115",
+      "options": {
+          "logo": true
+      },
+    "run": true
+ },
+ {
+     "id": "geonapi-publish-iso-19139",
+      "options": {
+      	"publish_thumbnails": true
+      },
+    "run": true
+ },
+  {
+     "id": "geosapi-publish-ogc-services",
+    "run": true
+ }
+ ],
+ "profile": {
+    "id": "my-workflow-identifier",
+    "name": "My workflow",
+    "project": "Test geoflow omees spatial data",
+    "organization": "Observatoire Montpellierain en Ecologie et Evolution de la Santé", 
+  "mode": "entity",
+  "logos": [
+		"https://www.fredonoccitanie.com/jevi/wp-content/uploads/sites/2/2026/06/logo_OMEES.png"
+  ],
+  "options": {
+    "line_separator": "_\n",
+    "skipDataDownload": true
+  }
+}
+}

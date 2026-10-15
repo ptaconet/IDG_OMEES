@@ -1,0 +1,604 @@
+"type_structure","numero_national","libelle_structure","sigle_structure","annee_fermeture","lien_etablissement","adresse","mail","domaines_scientifiques","discipline","responsable","adresse_geocodage","latitude","longitude"
+"Unité mixte","200711902L","Laboratory of Pathogens and Host Immunity","LPHI",NA,"INSERM-tutelle ( ),
+CNRS-tutelle (UMR 5294),
+MONTPELLIER-tutelle (UMR 5294)","Université de Montpellier Place E. Bataillon CC107-34095-MONTPELLIER CEDEX 5","rachel.cerdan@umontpellier.fr","1-Mathématiques et leurs interactions                                                                 2-Physique                                                                                            5-Biologie, médecine et santé","PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics,
+LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","Mme Rachel CERDAN (directeur),
+Mme Maryse LEBRUN (Directrice adjointe)","Université de Montpellier Place E. Bataillon CC107-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119402W","Laboratoire Charles Coulomb","L2C",NA,"CNRS-tutelle (UMR 5221),
+MONTPELLIER-tutelle (UMR 5221)","Université de Montpellier Place Eugène Bataillon cc069-34095-MONTPELLIER CEDEX 5","dir-coulomb@umontpellier.fr","9-Sciences et technologies de l'information et de la communication                                    4-Chimie                                                                                              2-Physique                                                                                            8-Sciences pour l'ingénieur","PE3-Condensed matter physics : structure, electronic properties, fluids, nanosciences, biological physics,
+PE4-Physical and analytical chemical sciences : analytical chemistry, chemical theory, physical chemistry/chemical physics,
+PE2-Fundamental constituents of matter : particle, nuclear, plasma, atomic, molecular, gas, and optical physics,
+PE9-Universe Sciences : Astro-physics/-chemistry/-biology; solar system; planetary systems; stellar, galactic and extragalactic astronomy; cosmology; space sciences; astronomical instrumentation and data,
+PE5-Synthetic Chemistry and Materials : New materials and new synthetic approaches, structure-properties relations, solid state chemistry, molecular architecture, organic chemistry","Mme Sylvie CONTRERAS (Directrice adjointe),
+M. Pierre LEFEBVRE (DIR),
+M. Thierry BRETAGNON (Directeur adjoint)","Université de Montpellier Place Eugène Bataillon cc069-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119459H","Laboratoire Univers et Particules de Montpellier","LUPM",NA,"MONTPELLIER-tutelle (UMR 5299),
+CNRS-tutelle (UMR 5299)","Université de Montpellier Place Eugène Bataillon CC72-34095-MONTPELLIER CEDEX 5",NA,"2-Physique                                                                                            3-Sciences de la terre et de l'univers, espace","PE9-Universe Sciences : Astro-physics/-chemistry/-biology; solar system; planetary systems; stellar, galactic and extragalactic astronomy; cosmology; space sciences; astronomical instrumentation and data","M. Julien LAVALLE (Directeur adjoint),
+M. Denis PUY (DIR),
+M. Georges VASILEIADIS (Directeur adjoint)","Université de Montpellier Place Eugène Bataillon CC72-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité propre","202524659Z","Ingénierie, Caractérisation et Services","ICS",NA,"MONTPELLIER-tutelle (UAR_UM 503)","Université de Montpellier, Place Eugène Bataillon-34090-Montpellier",NA,"2-Physique                                                                                            10-Sciences agronomiques et écologiques                                                                5-Biologie, médecine et santé                                                                         8-Sciences pour l'ingénieur",NA,NA,"Université de Montpellier  Place Eugène Bataillon-34090-Montpellier",NA,NA
+"Unité mixte","201119392K","Observation spatiale, modèle et science impliquée (ex-ESPACE pour le DEVeloppement)","ESPACE-DEV",NA,"IRD-tutelle (UMR_D 228),
+MONTPELLIER-tutelle (UMR_D 228),
+LA REUNION-tutelle (UMR_D 228),
+NOUVELLE CALEDONIE-tutelle ( ),
+PERPIGNAN-tutelle ( ),
+CNES-participant (UMR_D 228),
+GUYANE-tutelle (UMR_D 228),
+ANTILLES-tutelle ( )","Maison de la Télédétection 500, Rue Jean-François Breton-34093-MONTPELLIER CEDEX 05",NA,"1-Mathématiques et leurs interactions                                                                 6-Sciences humaines et humanités                                                                      5-Biologie, médecine et santé                                                                         3-Sciences de la terre et de l'univers, espace                                                        10-Sciences agronomiques et écologiques                                                                9-Sciences et technologies de l'information et de la communication                                    7-Sciences de la société","SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies,
+PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics,
+PE7-Systems and communication engineering : Electrical, electronic, communication, optical and systems engineering,
+PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management,
+PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems","M. Rodolphe DEVILLERS (Directeur adjoint),
+Mme Gwenaëlle PENNOBER (Directrice adjointe),
+Mme Carmen GERVET (Directrice)","Maison de la Télédétection 500  Rue Jean-François Breton-34093-MONTPELLIER CEDEX 05",NA,NA
+"Structures Fédératives de Recherche","200719522U","SCIENCES INTÉGRATIVES DU VÉGÉTAL - MÉDITERRANÉE","SIVEM",NA,"MONTPELLIER-tutelle (IFR 127)","IRD Montpellier
+911 avenue d'Agropolis
+BP64501-34394-MONTPELLIER CEDEX 5","alain.tissier@univ-montp2.fr","3-Sciences de la terre et de l'univers, espace                                                        1-Mathématiques et leurs interactions                                                                 10-Sciences agronomiques et écologiques                                                                5-Biologie, médecine et santé",NA,"M. François TARDIEU (DIR),
+M. Alain TISSIER  (DIR)","IRD Montpellier
+911 avenue d'Agropolis
+BP64501-34394-MONTPELLIER CEDEX 5",NA,NA
+"Structures Fédératives de Recherche","202424495A","Fédération Occitane de Recherche Mathématique","OcciMath",NA,"MONTPELLIER-tutelle ( ),
+INSA TOULOUSE-tutelle ( ),
+INRAE-tutelle ( ),
+CNRS-tutelle (FRA 2002),
+PERPIGNAN-tutelle ( ),
+UT-tutelle ( )","CNRS, Site Triolet – case 0151 – Bâtiment 9, Place Eugène Bataillon-34095-MONTPELLIER CEDEX 5",NA,"1-Mathématiques et leurs interactions",NA,"M. Matthieu HILLAIRET (DIR)","CNRS  Site Triolet – case 0151 – Bâtiment 9  Place Eugène Bataillon-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","199511952T","Laboratoire de Mécanique et Génie Civil","LMGC",NA,"CNRS-tutelle (UMR 5508),
+MONTPELLIER-tutelle (UMR 5508),
+IMT MINES ALES-participant ( )","Université de Montpellier 860 rue de Saint Priest CC048-34095-MONTPELLIER CEDEX 5",NA,"1-Mathématiques et leurs interactions                                                                 5-Biologie, médecine et santé","PE8-Products and Processes Engineering : Product and process design, chemical, civil, environmental, mechanical, vehicle engineering, energy processes and relevant computational methods","M. Fabien SOULIE (Directeur adjoint),
+M. Frederic DUBOIS (DIR-ADJ),
+M. Stephane PAGANO (DIR)","Université de Montpellier 860 rue de Saint Priest CC048-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200311827X","Institut Montpelliérain Alexander Grothendieck","IMAG",NA,"CNRS-tutelle (UMR 5149),
+MONTPELLIER-tutelle (UMR 5149),
+INRIA-tutelle ( )","Université de Montpellier Place E. Bataillon-34095-MONTPELLIER CEDEX 5","imag-direction@umontpellier.fr","1-Mathématiques et leurs interactions","PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics","M. Marc HERZLICH (Directeur)","Université de Montpellier Place E. Bataillon-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201923736X","Institut de Science des Données de Montpellier","ISDM",NA,"MONTPELLIER-tutelle (UAR_UM 501),
+INSERM-tutelle (US 57),
+CIRAD-tutelle ( )","Université de Montpellier, Place Eugène Bataillon-34090-Montpellier",NA,"9-Sciences et technologies de l'information et de la communication                                    1-Mathématiques et leurs interactions",NA,"Mme Anne LAURENT (Directrice)","Université de Montpellier  Place Eugène Bataillon-34090-Montpellier",NA,NA
+"Unité mixte","202123741U","Institut Desbrest d'Epidémiologie et de Santé Publique","IDESP",NA,"MONTPELLIER-tutelle (UMR 1318),
+INSERM-tutelle (U 1318)","Université de Montpellier Institut Universitaire de Recherche Clinique 641 Avenue du Doyen Gaston Giraud-34093-Montpellier",NA,"5-Biologie, médecine et santé                                                                         1-Mathématiques et leurs interactions","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics","M. Grégory NINOT (Directeur adjoint),
+M. Pascal DEMOLY (DIR),
+M. Nicolas MOLINARI (Directeur adjoint)","Université de Montpellier Institut Universitaire de Recherche Clinique 641 Avenue du Doyen Gaston Giraud-34093-Montpellier",NA,NA
+"Structures Fédératives de Recherche","200410855L","GALILEE-OCA","GALILEEOCA",NA,"UniCA-tutelle (UMS 2202),
+OBSV. COTE D'AZUR-tutelle (UMS 2202),
+CNRS-tutelle (UAR 2202)","Bd de l'Observatoire - CS 34229-06304-NICE CEDEX 4","directeur@oca.eu","3-Sciences de la terre et de l'univers, espace",NA,"M. Stéphane MAZEVET (Directeur)","Bd de l'Observatoire - CS 34229-06304-NICE CEDEX 4",NA,NA
+"Unité mixte","200311847U","Centre d'Ecologie Fonctionnelle et Evolutive","CEFE",NA,"UMPV-tutelle (UMR 5175),
+Institut Agro-tutelle ( ),
+INRAE-participant (USC 1338),
+CNRS-tutelle (UMR 5175),
+EPHE PARIS-tutelle (UMR 5175),
+IRD-tutelle (UMR 251),
+MONTPELLIER-tutelle (UMR 5175)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5","direction@cefe.cnrs.fr","3-Sciences de la terre et de l'univers, espace                                                        10-Sciences agronomiques et écologiques                                                                6-Sciences humaines et humanités","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","M. Thibaud DECAENS (Directeur adjoint),
+Mme Marie-Laure NAVAS (Directrice)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200711908T","Géosciences Montpellier","GM",NA,"ANTILLES-tutelle (UMR 5243),
+MONTPELLIER-tutelle (UMR 5243),
+CNRS-tutelle (UMR 5243)","Université de Montpellier Place Eugène Bataillon Bât.22 CC060-34095-MONTPELLIER CEDEX 5",NA,"8-Sciences pour l'ingénieur                                                                           3-Sciences de la terre et de l'univers, espace","PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management","M. Benoit ILDEFONSE (DIR),
+M. Manuel MUNOZ (Directeur adjoint)","Université de Montpellier Place Eugène Bataillon Bât.22 CC060-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200718237X","Gestion de l'eau, acteurs et usages","G-EAU",NA,"CIRAD-tutelle (UMR 90),
+BRGM-tutelle ( ),
+INRAE-tutelle (UMR 1458),
+AGROPARISTECH-tutelle (UMR 183),
+CIHEAM-participant ( ),
+Institut Agro-tutelle ( ),
+IRD-tutelle (UMR_D 183),
+MONTPELLIER-tutelle ( )","INRAE – 361, rue Jean Breton – BP 5095 – 34196 Montpellier cedex 5-34196-Montpellier Cedex 5","contact@g-eau.fr","3-Sciences de la terre et de l'univers, espace                                                        10-Sciences agronomiques et écologiques                                                                9-Sciences et technologies de l'information et de la communication                                    8-Sciences pour l'ingénieur","SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies,
+PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management,
+SH1-Individuals, Markets and Organisations : Economics, finance, management","M. Jean-Christophe MARECHAL (Directeur adjoint),
+Mme Caroline LEJARS (Directrice adjointe),
+M. Jean-Philippe VENOT (Directeur adjoint),
+M. Marcel KUPER (Directeur),
+Mme Marine COLON (Directrice adjointe),
+Mme Laetitia GUERIN (Directrice adjointe)","INRAE – 361  rue Jean Breton – BP 5095 – 34196 Montpellier cedex 5-34196-Montpellier Cedex 5",NA,NA
+"Unité mixte","201922947P","DATA TERRA",NA,NA,"IFREMER-tutelle ( ),
+IRD-tutelle ( ),
+CNES-tutelle ( ),
+IGN-tutelle ( ),
+METEO-tutelle ( ),
+CNRS-tutelle (UAR 2013),
+INRAE-tutelle (UMS 1511)","INRAE, Maison de la Télédétection, 500 rue Jean-François Breton-34090-MONTPELLIER","frederic.huynh@ird.fr","3-Sciences de la terre et de l'univers, espace","PE9-Universe Sciences : Astro-physics/-chemistry/-biology; solar system; planetary systems; stellar, galactic and extragalactic astronomy; cosmology; space sciences; astronomical instrumentation and data","Mme Anne PUISSANT (DIR-ADJ),
+M. Erwann QUIMBERT (DIR-ADJ),
+Mme Valérie SABOURAUD (Directrice-adjointe),
+M. Emmanuel CHALJUB (DIR-ADJ),
+M. Frederic HUYNH (DIR)","INRAE  Maison de la Télédétection  500 rue Jean-François Breton-34090-MONTPELLIER",NA,NA
+"Unité mixte","202123675X","Savoirs, ENvironnement, Sociétés","SENS",NA,"IRD-tutelle ( ),
+CIRAD-tutelle ( ),
+Institut Agro-participant ( ),
+UMPV-tutelle ( )","Université Paul-Valéry, Site Saint-Charles Rue du Professeur Henri Serre-34000-Montpellier","nathalie.finot@ird.fr","3-Sciences de la terre et de l'univers, espace                                                        6-Sciences humaines et humanités","LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies,
+SH2-Institutions, Governance and Legal Systems : Political science, international relations, law,
+SH1-Individuals, Markets and Organisations : Economics, finance, management,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Phillippe MERAL (DIR),
+Mme Chantal CRENN (DIR ADJ)","Université Paul-Valéry  Site Saint-Charles Rue du Professeur Henri Serre-34000-Montpellier",NA,NA
+"Unité propre","202524662C","Centre Spatial de l'Université de Montpellier","CSUM",NA,"MONTPELLIER-tutelle (UAR_UM 502)","Université de Montpellier, 950 rue de Saint Priest-34090-Montpellier",NA,"8-Sciences pour l'ingénieur                                                                           3-Sciences de la terre et de l'univers, espace",NA,NA,"Université de Montpellier  950 rue de Saint Priest-34090-Montpellier",NA,NA
+"Unité mixte","199511995P","Institut des Sciences de l'Evolution de Montpellier","ISEM",NA,"CNRS-tutelle (UMR 5554),
+MONTPELLIER-tutelle (UMR 5554),
+IRD-tutelle (UMR 226),
+INRAP-participant (UMR 5554),
+CIRAD-tutelle ( ),
+EPHE PARIS-tutelle (UMR 5554)","Université de Montpellier Place Eugène Bataillon CC65-34095-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé                                                                         7-Sciences de la société                                                                              9-Sciences et technologies de l'information et de la communication                                    3-Sciences de la terre et de l'univers, espace                                                        10-Sciences agronomiques et écologiques","PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems,
+SH6-The Study of the Human Past : Archaeology and history,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management","M. Nicolas GALTIER (Directeur),
+M. Pierre-Olivier ANTOINE (DIR-ADJ),
+Mme Carole SMADJA (Directrice adjointe)","Université de Montpellier Place Eugène Bataillon CC65-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200718239Z","Territoires, Environnement, Télédétection et Information Spatiale","TETIS",NA,"INRAE-tutelle (UMR 1470),
+AGROPARISTECH-tutelle (UMR ),
+CNRS-participant (UMR 9000),
+CIRAD-tutelle (UMR 91)","500 rue Jean-François Breton-34000-Montpellier",NA,"3-Sciences de la terre et de l'univers, espace                                                        9-Sciences et technologies de l'information et de la communication                                    10-Sciences agronomiques et écologiques","SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","M. Eric BARBE (Directeur adjoint),
+M. Pierre MAUREL (Directeur),
+M. Laurent GAZULL (Directeur adjoint),
+M. Pierre-Yves VION (Directeur adjoint)","500 rue Jean-François Breton-34000-Montpellier",NA,NA
+"Unité mixte","200919527R","Observatoire de Recherche Montpelliérain de l'Environnement","OREME",NA,"MONTPELLIER-tutelle (UAR 3282),
+INRAE-tutelle (UMS 1483),
+CNRS-tutelle (UAR 3282),
+IRD-tutelle (UMS 3282)","Université de Montpellier Place Eugène Bataillon Bât.22-34000-MONTPELLIER","eric.servat@umontpellier.fr","10-Sciences agronomiques et écologiques                                                                3-Sciences de la terre et de l'univers, espace",NA,NA,"Université de Montpellier Place Eugène Bataillon Bât.22-34000-MONTPELLIER",NA,NA
+"Unité mixte","201220434N","Astrophysique Relativiste, Théories, Expériences, Metrologie, Instrumentation, Signaux","ARTEMIS",NA,"OBSV. COTE D'AZUR-tutelle (UMR 7250),
+UniCA-tutelle (UMR 7250),
+CNRS-tutelle (UMR 7250)","Observatoire de la Côte d’Azur, Boulevard de l’Observatoire - CS 34229-06304-NICE CEDEX 4","artemis.admin@oca.eu","8-Sciences pour l'ingénieur                                                                           3-Sciences de la terre et de l'univers, espace","PE9-Universe Sciences : Astro-physics/-chemistry/-biology; solar system; planetary systems; stellar, galactic and extragalactic astronomy; cosmology; space sciences; astronomical instrumentation and data,
+PE7-Systems and communication engineering : Electrical, electronic, communication, optical and systems engineering","M. Nelson CHRISTENSEN (Directeur)","Observatoire de la Côte d’Azur  Boulevard de l’Observatoire - CS 34229-06304-NICE CEDEX 4",NA,NA
+"Unité mixte","199512007C","HydroSciences Montpellier","HSM",NA,"IRD-tutelle (UMR 50),
+IMT MINES ALES-participant ( ),
+CNRS-tutelle (UMR 5151),
+MONTPELLIER-tutelle (UMR 5151)","Université de Montpellier Faculté de Pharmacie Bâtiment Hydropolis et Batiment C 15 Avenue Charles Flahault-34090-MONTPELLIER","hsm-direction@umontpellier.fr","3-Sciences de la terre et de l'univers, espace                                                        5-Biologie, médecine et santé","PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","Mme Patricia LICZNAR FAJARDO (Directrice adjointe),
+M. Jacques GARDON (Directeur adjoint),
+M. Patrick LACHASSAGNE (Directeur)","Université de Montpellier Faculté de Pharmacie Bâtiment Hydropolis et Batiment C 15 Avenue Charles Flahault-34090-MONTPELLIER",NA,NA
+"Unité mixte","201220431K","Laboratoire J-L. Lagrange","LAGRANGE",NA,"OBSV. COTE D'AZUR-tutelle (UMR 7293),
+CNRS-tutelle (UMR 7293),
+UniCA-tutelle (UMR 7293)","Observatoire de la Côte d’Azur, Boulevard de l’Observatoire - CS 34229-06304-NICE CEDEX 4","dir-lagrange@oca.eu","8-Sciences pour l'ingénieur                                                                           9-Sciences et technologies de l'information et de la communication                                    3-Sciences de la terre et de l'univers, espace","PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics,
+PE7-Systems and communication engineering : Electrical, electronic, communication, optical and systems engineering,
+PE3-Condensed matter physics : structure, electronic properties, fluids, nanosciences, biological physics,
+PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems,
+PE9-Universe Sciences : Astro-physics/-chemistry/-biology; solar system; planetary systems; stellar, galactic and extragalactic astronomy; cosmology; space sciences; astronomical instrumentation and data","M. Orlagh CREEVEY (Directeur Adjoint),
+M. Pierre HENRI (Directeur Adjoint),
+Mme Nicole NESVADBA (Directrice)","Observatoire de la Côte d’Azur  Boulevard de l’Observatoire - CS 34229-06304-NICE CEDEX 4",NA,NA
+"Unité mixte","200711918D","Institut Charles Gerhardt Montpellier","ICGM",NA,"CNRS-tutelle (UMR 5253),
+ENS CHIM. MONTPELLIER-tutelle (UMR 5253),
+MONTPELLIER-tutelle (UMR 5253)","UMR5253 - ICGM , CC043 ; Pôle Chimie Balard Recherche ; 1919 route de Mende-34293-MONTPELLIER CEDEX 5","icgm-direction@umontpellier.fr","4-Chimie","PE5-Synthetic Chemistry and Materials : New materials and new synthetic approaches, structure-properties relations, solid state chemistry, molecular architecture, organic chemistry","M. Eric CLOT (Directeur),
+M. Yannick GUARI (Directeur adjoint)","UMR5253 - ICGM   CC043 ; Pôle Chimie Balard Recherche ; 1919 route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201722376C","Chimie Bio-Inspirée et Innovations Ecologiques","ChimEco",NA,"MONTPELLIER-tutelle (UMR 5021),
+CNRS-tutelle (UMR 5021)","CAP DELTA, 1682 rue de la Valsière-34790-GRABELS","claude.grison@cnrs.fr","4-Chimie                                                                                              10-Sciences agronomiques et écologiques",NA,"Mme Claude GRISON (DIR)","CAP DELTA  1682 rue de la Valsière-34790-GRABELS",NA,NA
+"Unité propre","200721743H","Unité support de ChemBioFrance et de la Chimiothèque nationale","USCBF-CN",NA,"CNRS-tutelle (UAR 3035)","ENSCM, 240 Avenue du Prof. E. JEANBRAU-34296-MONTPELLIER CEDEX 5","diruscbfcn@chembiofrance.org","4-Chimie",NA,"M. Jean-Luc GALZI (DIR),
+M. Minh Anh Kiet TRAN (DIR-ADJ)","ENSCM  240 Avenue du Prof. E. JEANBRAU-34296-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","199412064U","Institut Européen des Membranes","IEM",NA,"MONTPELLIER-tutelle (UMR 5635),
+CNRS-tutelle (UMR 5635),
+ENS CHIM. MONTPELLIER-tutelle (UMR 5635)","Université de Montpellier 300 avenue Emile Jeanbrau CC047-34095-MONTPELLIER CEDEX 5",NA,"8-Sciences pour l'ingénieur                                                                           4-Chimie","PE5-Synthetic Chemistry and Materials : New materials and new synthetic approaches, structure-properties relations, solid state chemistry, molecular architecture, organic chemistry,
+PE8-Products and Processes Engineering : Product and process design, chemical, civil, environmental, mechanical, vehicle engineering, energy processes and relevant computational methods,
+PE4-Physical and analytical chemical sciences : analytical chemistry, chemical theory, physical chemistry/chemical physics","M. David CORNU (Directeur)","Université de Montpellier 300 avenue Emile Jeanbrau CC047-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200711912X","Institut des Biomolécules Max Mousseron","IBMM",NA,"CNRS-tutelle (UMR 5247),
+MONTPELLIER-tutelle (UMR 5247),
+ENS CHIM. MONTPELLIER-tutelle (UMR 5247)","CNRS UMR 5247 IBMM, 1919 route de Mende, 34293 Montpellier cedex 5-34293-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé                                                                         4-Chimie","LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling","Mme Muriel AMBLARD (DIR-ADJ),
+M. Michael SMIETANA (Directeur adjoint),
+M. Pascal DUMY (DIR)","CNRS UMR 5247 IBMM  1919 route de Mende  34293 Montpellier cedex 5-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200717455X","Centre de Biologie Structurale","CBS",NA,"INSERM-tutelle (U 1054),
+MONTPELLIER-tutelle (UMR 5048),
+CNRS-tutelle (UMR 5048)","INSERM 29 rue de Navacelles-34090-MONTPELLIER","emmanuel.margeat@cbs.cnrs.fr","5-Biologie, médecine et santé                                                                         4-Chimie","LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling","M. Emmanuel MARGEAT (DIRECTEUR),
+Mme Vanessa DELFOSSE (Directrice adjointe)","INSERM 29 rue de Navacelles-34090-MONTPELLIER",NA,NA
+"Unité mixte","200717639X","Démarche intégrée pour l'obtention d'aliments de qualité","QUALISUD",NA,"Institut Agro-tutelle ( ),
+LA REUNION-tutelle (UMR_C 95),
+AU-tutelle (UMR_C95 ),
+IRD-tutelle ( ),
+CIRAD-tutelle (UMR 95),
+GUYANE-participant ( ),
+MONTPELLIER-tutelle (UMR_B 95)","Cirad : TA B-95/16 73 rue Jean-François Breton-34398-MONTPELLIER CEDEX 05",NA,"5-Biologie, médecine et santé                                                                         4-Chimie","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Dominique PALLET (Directeur),
+M. Franck WIERINGA (Directeur adjoint),
+M. Antoine COLLIGNAN (Directeur adjoint),
+Mme Sabine GALINDO (Directrice Adjointe),
+M. Thierry GOLI (Directeur adjoint),
+M. Hippolyte KODJA (Directeur adjoint)","Cirad : TA B-95/16 73 rue Jean-François Breton-34398-MONTPELLIER CEDEX 05",NA,NA
+"Unité mixte","202424490V","UAR PAC Chimie Balard Montpellier",NA,NA,"CNRS-tutelle (UAR 2041),
+ENS CHIM. MONTPELLIER-tutelle ( ),
+MONTPELLIER-tutelle ( )","CNRS, Bâtiment Balard - CC043, 1919, route de Mende-34293-MONTPELLIER CEDEX 5",NA,"4-Chimie",NA,"Mme Bénédicte PRELOT (DIR)","CNRS  Bâtiment Balard - CC043  1919  route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Groupements de Recherche","200719974K","ROBOTIQUE",NA,NA,"CNRS-tutelle (GDR 3072)","UNIVERSITE DE MONTPELLIER - CC 477 - 161 RUE ADA-34095-MONTPELLIER CEDEX 5","philippe.bonnifait@hds.utc.fr","8-Sciences pour l'ingénieur                                                                           5-Biologie, médecine et santé                                                                         9-Sciences et technologies de l'information et de la communication",NA,"M. Philippe MARTINET (DIR-ADJ),
+M. Philippe FRAISSE (DIR)","UNIVERSITE DE MONTPELLIER - CC 477 - 161 RUE ADA-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200716494C","Cellules souches, plasticité cellulaire, régénération tissulaire et immunothérapie des maladies inflammatoires","IRMB",NA,"MONTPELLIER-tutelle (UMR_S 1183),
+INSERM-tutelle (U 1183),
+CHUM-participant (U 844)","HOPITAL SAINT ELOI - 80 rue Augustin Fliche-34295-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)","Mme Florence APPARAILLY (Directrice adjointe),
+M. Christian JORGENSEN (DIR)","HOPITAL SAINT ELOI - 80 rue Augustin Fliche-34295-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119437J","Maladies Infectieuses et Vecteurs : Ecologie, Génétique, Evolution et Contrôle","MIVEGEC",NA,"CHUM-participant (UMR 5290),
+CNRS-tutelle (UMR 5290),
+IRD-tutelle (UMR 5290),
+INRAE-participant (USC 1487),
+MONTPELLIER-tutelle (UMR 5290)","IRD 911 Av Agropolis-34394-MONTPELLIER CEDEX 5","mivegec@ird.fr","5-Biologie, médecine et santé                                                                         10-Sciences agronomiques et écologiques","PE1-Mathematics : All areas of mathematics, pure and applied, plus mathematical foundations of computer science, mathematical physics and statistics,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies,
+PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems","M. Frédéric SIMARD (DIR),
+Mme Sylvie HURTREZ (Directeur adjoint)","IRD 911 Av Agropolis-34394-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119476B","Nutrition et Alimentation des Populations aux Suds","NUTRIPASS",NA,"INSERM-participant (UMR_D 204),
+IRD-tutelle (UMR_D 204)","IRD 911, avenue Agropolis BP 64501-34394-MONTPELLIER CEDEX 5","nutripass@ird.fr","10-Sciences agronomiques et écologiques                                                                5-Biologie, médecine et santé",NA,"M. Yves MARTIN PREVEL (Directeur Adjoint),
+M. JEAN PIERRE GUYOT (Directeur)","IRD 911  avenue Agropolis BP 64501-34394-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201220717W","Biologie, Santé, Innovation Technologique de Rennes","BIOSIT",NA,"INSERM-tutelle (US 18),
+CNRS-tutelle (UAR 3480),
+RENNES-tutelle (UAR 3480)","Université de Rennes 1-Campus  Santé-Bât 8, 2 av Pr Léon Bernard-CS 34317-35043-Rennes","biosit@univ-rennes.fr","5-Biologie, médecine et santé","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches,
+LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling,
+LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","M. Rémy PEDEUX (),
+M. Charles PINEAU (Directeur)","Université de Rennes 1-Campus  Santé-Bât 8  2 av Pr Léon Bernard-CS 34317-35043-Rennes",NA,NA
+"Equipe interne","201923127K","Pôle Gérontologie",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Equipe interne","201923130N","Pôle Psychiatrie",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics",NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Unité mixte","200817513F","Bacterial RNAs and Medicine (ARN bactériens et médecine)","BRM",NA,"RENNES-tutelle (U 1230),
+INSERM-tutelle (U 1230)","Université de Rennes 1, Campus de Villejean, 2 Avenue du Pr Léon Bernard - CS 34317-35043-Rennes","vincent.cattoir@univ-rennes.fr","5-Biologie, médecine et santé","LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","M. Vincent CATTOIR (Directeur),
+M. Yoann AUGAGNEUR (Directeur-adjoint)","Université de Rennes 1  Campus de Villejean  2 Avenue du Pr Léon Bernard - CS 34317-35043-Rennes",NA,NA
+"Unité mixte","202123850M","EuroMov - Digital Health in Motion","EuromovDHM",NA,"MONTPELLIER-tutelle (UR UM102),
+IMT MINES ALES-tutelle ( )","Université de Montpellier UFR STAPS 700 avenue du Pic Saint Loup-34090-Montpellier",NA,"5-Biologie, médecine et santé                                                                         9-Sciences et technologies de l'information et de la communication                                    6-Sciences humaines et humanités","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics,
+PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems","M. Stéphane PERREY (DIR),
+M. Jacky MONTMAIN (Directeur adjoint)","Université de Montpellier UFR STAPS 700 avenue du Pic Saint Loup-34090-Montpellier",NA,NA
+"Unité propre","202224203S","Equipe de Droit Pénal et de sciences Forensiques de Montpellier","EDPFM",NA,"MONTPELLIER-tutelle (UR_ UM212)","UFR DSP, 39, rue de l'Université-34060-Montpellier",NA,"5-Biologie, médecine et santé                                                                         7-Sciences de la société","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine","Mme Marie-Christine SORDINO (DIR)","UFR DSP  39  rue de l'Université-34060-Montpellier",NA,NA
+"Equipe interne","201923126J","Pôle Femme, Mère, Enfant",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Groupements de Recherche","200519935B","REPLICATION DES CHROMOSOMES EUCARYOTES ET SES POINTS DE CONTROLE","REPLICHROM",NA,"INS.CURIE-tutelle (GDR 2915),
+SORBONNE UNIV.-tutelle (GDR 2915),
+CNRS-tutelle (GDR 2915),
+U PARIS Cité-tutelle (GDR 2915),
+INSERM-tutelle (GDR 2915),
+MONTPELLIER-tutelle (GDR 2915),
+UT-tutelle (GDR 2915),
+PSL-tutelle (GDR 2915),
+ENS PARIS-tutelle (GDR 2915)","INSTITUT DE GENETIQUE HUMAINE 141, rue de la Cardonille-34396-MONTPELLIER CEDEX 5","Marcel.Mechali@igh.cnrs.fr","5-Biologie, médecine et santé",NA,"M. Marcel MECHALI (DIR)","INSTITUT DE GENETIQUE HUMAINE 141  rue de la Cardonille-34396-MONTPELLIER CEDEX 5",NA,NA
+"Groupements de Recherche","200619964D","BIOINFORMATIQUE MOLECULAIRE",NA,NA,"SORBONNE UNIV.-tutelle (GDR 3003),
+INRIA-tutelle (GDR 3003),
+INRAE-tutelle (GDR 3003),
+MONTPELLIER-tutelle (GDR 3003),
+CNRS-tutelle (GDR 3003),
+U PARIS-SACLAY-tutelle (GDR 3003)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 LIRMM - CC 477 161, rue Ada-34095-MONTPELLIER CEDEX 5","Eric.Rivals@lirmm.fr","9-Sciences et technologies de l'information et de la communication                                    5-Biologie, médecine et santé",NA,"M. Eric RIVALS (DIR)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 LIRMM - CC 477 161  rue Ada-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","198811797E","Centre d'Etudes Politiques Et sociaLes : Environnement, Santé, Territoires","CEPEL",NA,"MONTPELLIER-tutelle (UMR 5112),
+CNRS-tutelle (UMR 5112)","Université de Montpellier, UFR Droit et Science Politique 39 Rue de l'Université-34060-MONTPELLIER CEDEX 2","cepel@umontpellier.fr","7-Sciences de la société                                                                              5-Biologie, médecine et santé","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","Mme Laura MICHEL (Directrice adjointe),
+M. Emmanuel NÉGRIER (Directeur)","Université de Montpellier  UFR Droit et Science Politique 39 Rue de l'Université-34060-MONTPELLIER CEDEX 2",NA,NA
+"Unité mixte","200716389N","Mécanismes Moléculaires dans les Démences Neurodégénératives","MMDN",NA,"MONTPELLIER-tutelle (U 1198),
+EPHE PARIS-tutelle (U 1198),
+INSERM-tutelle (U 1198),
+PSL-tutelle (U 1198)","UNIVERSITE DE MONTPELLIER CC105 Place Eugène Bataillon-34095-MONTPELLIER CEDEX 05",NA,"5-Biologie, médecine et santé","LS5-Neuroscience and Disorders of the Nervous System : Nervous system development, homeostasis and ageing, nervous system function and dysfunction, systems neuroscience and modelling, biological basis of cognitive processes and of behaviour, neurological and mental disorders","M. Tangui MAURICE (Directeur)","UNIVERSITE DE MONTPELLIER CC105 Place Eugène Bataillon-34095-MONTPELLIER CEDEX 05",NA,NA
+"Unité mixte","200919301V","Modélisation et ingénierie des systèmes complexes biologiques pour le diagnostic","Sys2Diag",NA,"CNRS-tutelle (UMR 9005)","ALCEN-PMB, 1682 Rue de la valsière, CAP DELTA - Parc Euromédecine, BP 61003-34184-MONTPELLIER CEDEX 4","direction@sys2diag.cnrs.fr","5-Biologie, médecine et santé                                                                         8-Sciences pour l'ingénieur","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine","M. Franck MOLINA (DIR)","ALCEN-PMB  1682 Rue de la valsière  CAP DELTA - Parc Euromédecine  BP 61003-34184-MONTPELLIER CEDEX 4",NA,NA
+"Unité mixte","201119426X","Diversité, Adaptation et DEveloppement des plantes","DIADE",NA,"CIRAD-participant (UMR 100),
+MONTPELLIER-tutelle (UMR 232),
+IRD-tutelle (UMR_D 232)","Centre IRD 911 Avenue Agropolis BP 64501-34394-MONTPELLIER",NA,"10-Sciences agronomiques et écologiques                                                                5-Biologie, médecine et santé","LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine","M. Pascal GANTET (Directeur Adjoint),
+M. Yves VIGOUROUX (Directeur)","Centre IRD 911 Avenue Agropolis BP 64501-34394-MONTPELLIER",NA,NA
+"Unité mixte","201722408M","Institut de Recherche en Infectiologie de Montpellier","IRIM",NA,"CNRS-tutelle (UMR 9004),
+MONTPELLIER-tutelle (UMR 9004)","CNRS, 1919 Route de Mende-34293-MONTPELLIER CEDEX 5","direction@irim.cnrs.fr","5-Biologie, médecine et santé","LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","Mme Nathalie CHAZAL (DIR-ADJ),
+M. Matteo BONAZZI (DIR)","CNRS  1919 Route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Equipe interne","201524302E","Interactions Hôtes-Pathogènes-Environnements","RBE-IHPE",NA,"IFREMER-tutelle ( )","Université de Montpellier - Campus Triolet - Place E. Bataillon - CC080-34095-Montpellier Cedex 5",NA,"5-Biologie, médecine et santé",NA,"Mme Caroline MONTAGNANI (DIR)","Université de Montpellier - Campus Triolet - Place E. Bataillon - CC080-34095-Montpellier Cedex 5",NA,NA
+"Equipe interne","201923122E","Pôle Biologie-Pathologie",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé","LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches",NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Equipe interne","201923129M","Pôle Os et Articulations",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Unité mixte","201119514T","BioCampus Montpellier",NA,NA,"MONTPELLIER-tutelle (UAR 3426),
+INSERM-tutelle (US 9),
+CNRS-tutelle (UAR 3426)","CNRS 141 rue de la Cardonille-34094-MONTPELLIER CEDEX 5","direction@biocampus.cnrs.fr","5-Biologie, médecine et santé                                                                         10-Sciences agronomiques et écologiques","LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling,
+LS5-Neuroscience and Disorders of the Nervous System : Nervous system development, homeostasis and ageing, nervous system function and dysfunction, systems neuroscience and modelling, biological basis of cognitive processes and of behaviour, neurological and mental disorders,
+LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine","Mme Séverine CHAUMONT-DUBEL (Directrice adjointe),
+M. Julien CAU (Directeur)","CNRS 141 rue de la Cardonille-34094-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","202224196J","BioCentre Lunaret Montpellier","BIOLuM",NA,"MONTPELLIER-tutelle (UAR 5261),
+CNRS-tutelle (UAR 5261)","CNRS, Campus CNRS/IGMM, 1919 route de Mende-34293-MONTPELLIER CEDEX 5","direction.frbiomontpellier@services.cnrs.fr","5-Biologie, médecine et santé",NA,"M. Anne DEBANT (DIR)","CNRS  Campus CNRS/IGMM  1919 route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119394M","Pathogenesis and Control of Chronic and Emerging Infections","PCCEI",NA,"MONTPELLIER-tutelle (U 1058),
+CHUM-participant (U 1058),
+INSERM-tutelle (U 1058),
+ANTILLES-tutelle ( )","Université de Montpellier Faculté de Pharmacie15 Av. Flahault 14491-34093-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé","LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","M. Jean-Pierre MOLES (Directeur Adjoint)","Université de Montpellier Faculté de Pharmacie15 Av. Flahault 14491-34093-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201521641M","MARine Biodiversity, Exploitation & Conservation","MARBEC",NA,"IFREMER-tutelle (UMR 9190),
+IRD-tutelle (UMR_D 248),
+INRAE-tutelle (USC 1496),
+MONTPELLIER-tutelle (UMR 9190),
+CNRS-tutelle (UMR 9190)","av Jean Monnet-CS30171-34203-SETE CEDEX","marbec-dir@listes.ird.fr","5-Biologie, médecine et santé                                                                         10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","M. Jean-Christophe AUGUET (Directeur adjoint),
+Mme Patricia CUCCHI (Directrice adjointe),
+M. Jean-Marc FROMENTIN (DIR-ADJ),
+M. Laurent DAGORN (DIR)","av Jean Monnet-CS30171-34203-SETE CEDEX",NA,NA
+"Unité propre","201122292M","Marine Biodiversity Exploitation and Conservation","RBE-MARBEC",NA,"IFREMER-tutelle ( )","Avenue Jean Monnet - CS 30171-34203-Sète Cedex","Thierry.Laugier@ifremer.fr","5-Biologie, médecine et santé                                                                         10-Sciences agronomiques et écologiques","LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling","M. Thierry LAUGIER ()","Avenue Jean Monnet - CS 30171-34203-Sète Cedex",NA,NA
+"Unité mixte","201119374R","Physiologie et médecine expérimentale du coeur et des muscles","PHYMEDEXP",NA,"CHUM-participant (U 1046),
+INSERM-tutelle (U 1046),
+CNRS-tutelle (UMR 9214),
+MONTPELLIER-tutelle (U 1046)","CHU Montpellier 371 avenue Doyen Gaston Giraud-34295-MONTPELLIER CEDEX 5","direction.phymedexp@inserm.fr","5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)","Mme Magali TAULAN-CADARS (Directrice adjointe),
+M. Alain LACAMPAGNE (Directeur)","CHU Montpellier 371 avenue Doyen Gaston Giraud-34295-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201522432X","Centre d'Etudes des Maladies Infectieuses et Pharmacologie Anti-Infectieuse","CEMIPAI",NA,"MONTPELLIER-tutelle (UAR 3725),
+CNRS-tutelle (UAR 3725)","CNRS 1919 route de Mende-34293-MONTPELLIER CEDEX 5","direction@cemipai.cnrs.fr","5-Biologie, médecine et santé",NA,"Mme Delphine MURIAUX (DIR)","CNRS 1919 route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Equipe interne","201923125H","Pôle Digestif",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Equipe interne","201923135U","Pôle Pharmacie",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Unité mixte","199111979P","Institut de Génétique Moléculaire de Montpellier","IGMM",NA,"CNRS-tutelle (UMR 5535),
+MONTPELLIER-tutelle (UMR 5535),
+CHUM-participant (UMR 5535)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5","secretariat@igmm.cnrs.fr","5-Biologie, médecine et santé","LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)","M. Eric KREMER (directeur adjoint),
+M. Etienne SCHWOB (directeur)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200316288W","Institut des Neurosciences de Montpellier","INM",NA,"EFS-tutelle ( ),
+MONTPELLIER-tutelle (U 1298),
+INSERM-tutelle (U 1298)","Institut des Neurosciences Hôpital Saint Eloi - 80 rue Augustin Fliche - BP 74103-34295-MONTPELLIER CEDEX 5","veronique.brugioti@inserm.fr","5-Biologie, médecine et santé","LS5-Neuroscience and Disorders of the Nervous System : Nervous system development, homeostasis and ageing, nervous system function and dysfunction, systems neuroscience and modelling, biological basis of cognitive processes and of behaviour, neurological and mental disorders","M. Sylvain LEHMANN (Directeur),
+M. Cédric RAOUL (Directeur adjoint)","Institut des Neurosciences Hôpital Saint Eloi - 80 rue Augustin Fliche - BP 74103-34295-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201119485L","Recherche translationnelle sur VIH et les Maladies Infectieuses endémiques et émergentes","TransVIHMI",NA,"CHUM-participant (UMR_D 145),
+MONTPELLIER-tutelle (U 1175),
+INSERM-tutelle (U 1175),
+IRD-tutelle (UMI 233)","IRD - Centre de Montpellier 911, avenue Agropolis BP 64501-34394-MONTPELLIER CEDEX 5","maryline.bonnet@ird.fr","5-Biologie, médecine et santé","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law,
+LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","M. Ahidjo AYOUBA (Directeur adjoint),
+Mme Maryline BONNET (Directrice)","IRD - Centre de Montpellier 911  avenue Agropolis BP 64501-34394-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","201722404H","Institut de Génétique Humaine","IGH",NA,"MONTPELLIER-tutelle (UMR 9002),
+CNRS-tutelle (UMR 9002)","CNRS 141 Rue de la Cardonille-34396-MONTPELLIER CEDEX 5","direction@igh.cnrs.fr","5-Biologie, médecine et santé","LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling","Mme Corinne GREY (DIR-ADJ),
+M. PASERO PHILIPPE (DIR)","CNRS 141 Rue de la Cardonille-34396-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","202123756K","Développement Embryonnaire, Fertilité et Environnement","DEFE",NA,"INSERM-tutelle (U 1203),
+MONTPELLIER-tutelle (UMR 1203),
+UT-tutelle ( )","Hôpital Saint Eloi - CHRU Montpellier Institut de Médecine Régénérative et Biothérapies 80 Rue Augustin Fliche-34295-Montpellier",NA,"5-Biologie, médecine et santé","LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches","M. Françoise PARIS (DIR)","Hôpital Saint Eloi - CHRU Montpellier Institut de Médecine Régénérative et Biothérapies 80 Rue Augustin Fliche-34295-Montpellier",NA,NA
+"Unité propre","200715442J","Laboratoire Bioingénierie et Nanosciences","LBN",NA,"MONTPELLIER-tutelle (UR UM104)","Université de Montpellier UFR Odontologie 545, rue du Professeur Vialla-34197-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine","M. Pierre-Yves COLLART DUTILLEUL (Directeur adjoint),
+M. Frédéric CUISINIER (DIR)","Université de Montpellier UFR Odontologie 545  rue du Professeur Vialla-34197-MONTPELLIER CEDEX 5",NA,NA
+"Unité propre","201119401V","Laboratoire de Psychologie Epsylon","EPSYLON",NA,"UMPV-tutelle (EA 4556)","Université Paul-Valéry, Site de Saint-Charles Rue du Professeur Henri Serre-34090-MONTPELLIER","corinne.crespe@univ-montp3.fr","5-Biologie, médecine et santé                                                                         6-Sciences humaines et humanités","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics","M. Raphael TROUILLET (DIR)","Université Paul-Valéry  Site de Saint-Charles Rue du Professeur Henri Serre-34090-MONTPELLIER",NA,NA
+"Unité mixte","201119391J","Diversité, Génomes et Interactions Microorganismes-Insectes","DGIMI",NA,"INRAE-tutelle (UMR 1333),
+MONTPELLIER-tutelle (UMR 1333)","Université de Montpellier Place Eugène Bataillon - Bât 24-34095-Montpellier","anne.nathalie.volkoff@inrae.fr","5-Biologie, médecine et santé                                                                         10-Sciences agronomiques et écologiques","LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS6-Immunity, Infection and Immunotherapy : The immune system, related disorders and their mechanisms, biology of infectious agents and infection, biological basis of prevention and treatment of infectious diseases, innovative immunological tools and approaches, including therapies","Mme Anne-Nathalie VOLKOFF (Directrice),
+M. Alain GIVAUDAN (Directeur adjoint)","Université de Montpellier Place Eugène Bataillon - Bât 24-34095-Montpellier",NA,NA
+"Unité mixte","201421822N","GENOPOLYS",NA,NA,"CNRS-tutelle (UAR 3656),
+INSERM-tutelle (US 22),
+MONTPELLIER-tutelle (UAR 3656)","CNRS 141 Rue de la Cardonille-34396-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé",NA,"M. Philippe PASERO (Directeur)","CNRS 141 Rue de la Cardonille-34396-MONTPELLIER CEDEX 5",NA,NA
+"Unité propre","201020121G","CIC MONTPELLIER",NA,NA,"CHUM-tutelle ( ),
+INSERM-tutelle (CIC 1411)","Hôpital Saint eloi 80, Avenue augustin Fliche-34295-MONTPELLIER CEDEX 5","cic@chu-montpellier.fr","5-Biologie, médecine et santé",NA,NA,"Hôpital Saint eloi 80  Avenue augustin Fliche-34295-MONTPELLIER CEDEX 5",NA,NA
+"Equipe interne","201923133S","Pôle Urgences",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Unité propre","202524694M","Occitanie, Biothérapies, Bioproduction, Intégrateur","OBBI",NA,"INSERM-tutelle (US 63)","60 rue de Navacelles-34394-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"60 rue de Navacelles-34394-Montpellier",NA,NA
+"Unité mixte","200711904N","Centre de Recherche en Biologie cellulaire de Montpellier","CRBM",NA,"MONTPELLIER-tutelle (UMR 5237),
+CNRS-tutelle (UMR 5237)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5","direction@crbm.cnrs.fr","5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+LS5-Neuroscience and Disorders of the Nervous System : Nervous system development, homeostasis and ageing, nervous system function and dysfunction, systems neuroscience and modelling, biological basis of cognitive processes and of behaviour, neurological and mental disorders,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches,
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling","M. Claude PRIGENT (Directeur),
+M. Thierry LORCA (Directeur adjoint)","CNRS 1919 Route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200717476V","Institut de Génomique Fonctionnelle","IGF",NA,"CNRS-tutelle (UMR 5203),
+MONTPELLIER-tutelle (UMR 5203),
+INSERM-tutelle (U 1191)","CNRS 141 Rue de la Cardonille-34094-MONTPELLIER CEDEX 5","direction@igf.cnrs.fr","5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+LS1-Molecules of Life: Biological Mechanisms, Structures and Functions : Molecular biology, biochemistry, structural biology, molecular biophysics, synthetic and chemical biology, drug design, innovative methods and modelling,
+LS5-Neuroscience and Disorders of the Nervous System : Nervous system development, homeostasis and ageing, nervous system function and dysfunction, systems neuroscience and modelling, biological basis of cognitive processes and of behaviour, neurological and mental disorders","M. Sébastien GRANIER (Directeur),
+Mme Nathalie GUERINEAU (Directrice adjointe),
+M. Thierry DURROUX (Directeur adjoint),
+M. Philippe MARIN (Directeur)","CNRS 141 Rue de la Cardonille-34094-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","202524630T","UAR France-BioImaging core","FBI Core",NA,"CNRS-tutelle (UAR 2057),
+MONTPELLIER-tutelle ( )","UNIV MONTPELLIER, CC 477, 161, rue Ada-34095-MONTPELLIER CEDEX 5",NA,"5-Biologie, médecine et santé",NA,"M. René-Marc MEGE (DIR)","UNIV MONTPELLIER  CC 477  161  rue Ada-34095-MONTPELLIER CEDEX 5",NA,NA
+"Equipe interne","201923132R","Pôle Rein, Hypertension artérielle, Endocrinologie métabolique, Brûlés",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)",NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Unité mixte","199917397U","Dynamique Musculaire et Métabolisme","DMEM",NA,"INRAE-tutelle (UMR 0866),
+MONTPELLIER-tutelle (UMR 0866)","Campus de la Gaillarde Supagro/INRAE 2 place Viala-34060-Montpellier",NA,"5-Biologie, médecine et santé                                                                         6-Sciences humaines et humanités","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)","M. Vincent OLLENDORFF (Directeur),
+M. Vincent OLLENDORFF (Directeur)","Campus de la Gaillarde Supagro/INRAE 2 place Viala-34060-Montpellier",NA,NA
+"Unité mixte","201119661C","Institut de Recherche en Cancérologie de Montpellier","IRCM",NA,"INSERM-tutelle (U 1194),
+MONTPELLIER-tutelle (U 1194)","ICM - Parc Euromédecine - 208 Rue des Apothicaires-34298-Montpellier Cedex 5","contact.ircm@inserm.fr","5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases),
+LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches","M. Laurent LE CAM (directeur adjoint),
+Mme Nathalie BONNEFOY (directrice)","ICM - Parc Euromédecine - 208 Rue des Apothicaires-34298-Montpellier Cedex 5",NA,NA
+"Unité propre","201320500F","Biocommunication en Cardio-Métabolique","BC2M",NA,"MONTPELLIER-tutelle (UR UM101)","UNIVERSITE DE MONTPELLIER UFR  Pharmacie - 15 Av Charles Flahault-34060-MONTPELLIER CEDEX 2","anne-dominique.lajoix@umontpellier.fr","5-Biologie, médecine et santé","LS4-Physiology in Health, Disease and Ageing : Organ and tissue physiology, comparative physiology, physiology of ageing, pathophysiology, inter-organ and tissue communication, endocrinology, nutrition, metabolism, interaction with the microbiome, non-communicable diseases including cancer (and except disorders of the nervous system and immunity-related diseases)","Mme Anne-Dominique LAJOIX (DIR)","UNIVERSITE DE MONTPELLIER UFR  Pharmacie - 15 Av Charles Flahault-34060-MONTPELLIER CEDEX 2",NA,NA
+"Equipe interne","201923124G","Pôle Coeur Poumons",NA,NA,"CHUM-tutelle ( )","191 Avenue du Doyen Giraud-34295-Montpellier",NA,"5-Biologie, médecine et santé",NA,NA,"191 Avenue du Doyen Giraud-34295-Montpellier",NA,NA
+"Structures Fédératives de Recherche","201722324W","Maison des Sciences et des Humanités – Savoirs Unis pour un autre Développement","MSH Sud",NA,"CIRAD-tutelle ( ),
+UMPV-tutelle ( ),
+IRD-tutelle (UAR_S 273),
+NIMES-tutelle ( ),
+CNRS-tutelle (UAR 2035),
+MONTPELLIER-tutelle ( ),
+PERPIGNAN-tutelle ( ),
+CIHEAM-tutelle ( ),
+EC. ARCHI. MONTPELLIER-tutelle ( )","rue du Professeur Henri Serre-34080-MONTPELLIER",NA,"7-Sciences de la société                                                                              6-Sciences humaines et humanités",NA,"Mme Aurélie BINOT (DIR-ADJ),
+M. Olivier TINLAND (DIR)","rue du Professeur Henri Serre-34080-MONTPELLIER",NA,NA
+"Unité mixte","200315018R","Laboratoire Interdisciplinaire de Recherche en Didactique, Education et Formation","LIRDEF",NA,"MONTPELLIER-tutelle (UR UM208),
+UMPV-tutelle (EA 3749)","Université de Montpellier, FDE,2 Place Marcel Godechot BP 4152-34092-MONTPELLIER CEDEX 05","secretariat.lirdef@montpellier.iufm.fr , direction.lirdef@montpellier.iufm.fr","7-Sciences de la société                                                                              6-Sciences humaines et humanités","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics","M. Frédéric TORTERAT (DIR-ADJ),
+Mme Muriel GUEDJ (Directrice),
+M. Jean-Marc LANGE (Directeur adjoint)","Université de Montpellier  FDE 2 Place Marcel Godechot BP 4152-34092-MONTPELLIER CEDEX 05",NA,NA
+"Unité mixte","200711821Y","Archéologie des sociétés méditerranéennes","ASM",NA,"MIN.CULT-tutelle (UMR 5140),
+CNRS-tutelle (UMR 5140),
+UMPV-tutelle (UMR 5140),
+INRAP-tutelle (UMR 5140)","Université Paul-Valéry 3, Site de Saint-Charles Rue du Professeur Henri Serre-34090-M","asm-direction@cnrs.fr","6-Sciences humaines et humanités","SH6-The Study of the Human Past : Archaeology and history","Mme Réjane ROURE (DIR)","Université Paul-Valéry 3  Site de Saint-Charles Rue du Professeur Henri Serre-34090-M",NA,NA
+"Unité mixte","200711930S","PRAXILING","PRAXILING",NA,"CNRS-tutelle (UMR 5267),
+UMPV-tutelle (UMR 5267)","UNIVERSITE MONTPELLIER III Route de Mende-34199-MONTPELLIER cedex 05","praxiling@univ-montp3.fr","6-Sciences humaines et humanités                                                                      9-Sciences et technologies de l'information et de la communication                                    7-Sciences de la société","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics","M. Fabrice HIRSCH (DIR)","UNIVERSITE MONTPELLIER III Route de Mende-34199-MONTPELLIER cedex 05",NA,NA
+"Unité propre","200715448R","REPRESENTER, INVENTER LA REALITE, DU ROMANTISME AU XXIÈME SIECLE","RIRRA 21",NA,"UMPV-tutelle (EA 4209)","Université Paul-Valéry, Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER","cedric.gousson@univ-montp3.fr","6-Sciences humaines et humanités","SH5-Texts and Concepts : Literary studies, literature, philosophy","Mme Marie-Eve THERENTY (DIR)","Université Paul-Valéry  Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER",NA,NA
+"Unité propre","201119383A","Santé, Éducation et Situation de Handicap","SANTESIH",NA,"MONTPELLIER-tutelle (UR UM211)","Université de Montpellier UFR STAPS 700, avenue du Pic St Loup-34090-MONTPELLIER",NA,"7-Sciences de la société                                                                              6-Sciences humaines et humanités",NA,"M. Sylvain FEREZ (Directeur adjoint),
+M. Eric PERERA (Directeur)","Université de Montpellier UFR STAPS 700  avenue du Pic St Loup-34090-MONTPELLIER",NA,NA
+"Unité mixte","199419708C","Systèmes d'Elevage Méditerranéens et Tropicaux","SELMET",NA,"INRAE-tutelle (UMR 0868),
+Institut Agro-tutelle ( ),
+CIRAD-tutelle (UMR 112)","2  place Viala-34060-Montpellier","dir-selmet@cirad.fr","6-Sciences humaines et humanités                                                                      10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Guillaume DUTEURTRE (Directeur),
+M. Christian CORNIAUX (Directeur adjoint)","2  place Viala-34060-Montpellier",NA,NA
+"Unité propre","199113211D","LABORATOIRE DE SOCIOLINGUISTIQUE, D'ANTHROPOLOGIE DES PRATIQUES LANGAGIÈRES ET DE DIDACTIQUE DES LANGUES-CULTURES","DIPRALANG",NA,"UMPV-tutelle ( )","UNIVERSITE MONTPELLIER III DIPRALANG, EA739 ROUTE DE MENDE BP 5043-34199-MONTPELLIER CEDEX 05","secretariat-dipralang@univ-montp3.fr","6-Sciences humaines et humanités","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics","Mme Carmen ALÉN GARABATO (DR)","UNIVERSITE MONTPELLIER III DIPRALANG  EA739 ROUTE DE MENDE BP 5043-34199-MONTPELLIER CEDEX 05",NA,NA
+"Unité propre","200919215B","CENTRE DE RECHERCHES INTERDISCIPLINAIRES EN SCIENCES HUMAINES ET SOCIALES DE MONTPELLIER","CRISES",NA,"UMPV-tutelle (EA 4424)","Université Paul-Valéry, Site de Saint-Charles Rue du Professeur Henri Serre, Montpellier-34000-MONTPELLIER","celine.sacchi-pietri@univ-montp3.fr","6-Sciences humaines et humanités","SH5-Texts and Concepts : Literary studies, literature, philosophy,
+SH6-The Study of the Human Past : Archaeology and history","Mme Marie BLAISE (DIR)","Université Paul-Valéry  Site de Saint-Charles Rue du Professeur Henri Serre  Montpellier-34000-MONTPELLIER",NA,NA
+"Unité propre","201119372N","Centre d'Études Médiévales de Montpellier","CEMM",NA,"UMPV-tutelle (EA 4583)","UNIVERSITE MONTPELLIER 3      Site Saint-Charles -  Rue du Professeur H. Serre-34000-MONTPELLIER","celine.camisuli@univ-montp3.fr","6-Sciences humaines et humanités","SH5-Texts and Concepts : Literary studies, literature, philosophy,
+SH6-The Study of the Human Past : Archaeology and history","M. Thomas GRANIER (DIR)","UNIVERSITE MONTPELLIER 3      Site Saint-Charles -  Rue du Professeur H. Serre-34000-MONTPELLIER",NA,NA
+"Unité propre","202123676Y","Laboratoire d'Etudes interdisciplinaires sur les Représentations et les Imaginaires Sociaux","LEIRIS",NA,"UMPV-tutelle ( )","Univerité Paul Valéry Route de Mende-34000-Montpellier",NA,"6-Sciences humaines et humanités","SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","M. Phillipe JORON (DIR)","Univerité Paul Valéry Route de Mende-34000-Montpellier",NA,NA
+"Unité mixte","201119396P","Acteurs, ressources et territoires dans le développement","ART-Dev",NA,"CIRAD-tutelle (UMR 5281),
+CNRS-tutelle (UMR 5281),
+MONTPELLIER-tutelle (UMR 5281),
+PERPIGNAN-tutelle (UMR 5281),
+UMPV-tutelle (UMR 5281)","Univerité Paul Valéry Route de Mende-34199-MONTPELLIER CEDEX 5","geraldine.mette@univ-montp3.fr","6-Sciences humaines et humanités                                                                      10-Sciences agronomiques et écologiques                                                                7-Sciences de la société","SH1-Individuals, Markets and Organisations : Economics, finance, management,
+SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","M. Denis PESCHE (DR)","Univerité Paul Valéry Route de Mende-34199-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200719779Y","Institut français d'études anatoliennes - Georges Dumezil","IFEA",NA,"MIN.A.E.-tutelle (USR 3131),
+CNRS-tutelle (UAR 3131)","INST. FR. D'ETUDES ANATOLIENNES, BEYOGLU, Nuru ziya sok. n° 10-34433-ISTANBUL","ifea@ifea-istanbul.net","6-Sciences humaines et humanités",NA,"M. Philippe BOURMAUD (DIR)","INST. FR. D'ETUDES ANATOLIENNES  BEYOGLU  Nuru ziya sok. n° 10-34433-ISTANBUL",NA,NA
+"Unité mixte","201119405Z","Montpellier Recherche en Management","MRM",NA,"PERPIGNAN-tutelle ( ),
+MONTPELLIER-tutelle (UR UM210),
+MBS-tutelle ( ),
+AGROPARISTECH-tutelle ( )","Université de Montpellier Bât 19 Place Eugène Bataillon CC 028-34095-MONTPELLIER CEDEX 05",NA,"6-Sciences humaines et humanités","SH1-Individuals, Markets and Organisations : Economics, finance, management","M. Gilles N'GOALA (Directeur)","Université de Montpellier Bât 19 Place Eugène Bataillon CC 028-34095-MONTPELLIER CEDEX 05",NA,NA
+"Unité propre","199113197N","Laboratoire de Droit Privé","LDP",NA,"MONTPELLIER-tutelle (UR UM207)","Université de Montpellier, UFR Droit et Science Politique 39 Rue de l'Université-34060-MONTPELLIER CEDEX",NA,"6-Sciences humaines et humanités","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","Mme Christine HUGON (Directrice adjointe),
+M. Christophe ALBIGES (Directeur)","Université de Montpellier  UFR Droit et Science Politique 39 Rue de l'Université-34060-MONTPELLIER CEDEX",NA,NA
+"Unité propre","199113213F","ETUDES MONTPELLIERAINES DU MONDE ANGLOPHONE","EMMA",NA,"UMPV-tutelle (EA 741)","Université Paul-Valéry, Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER","isabelle.ronzetti@univ-montp3.fr","6-Sciences humaines et humanités","SH4-The Human Mind and Its Complexity : Cognitive science, psychology, linguistics,
+SH5-Texts and Concepts : Literary studies, literature, philosophy","M. Jean-Michel GANTEAU (DIR)","Université Paul-Valéry  Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER",NA,NA
+"Unité propre","199513679V","Centre de Recherches et d'Etudes Administratives de Montpellier","CREAM",NA,"MONTPELLIER-tutelle (UR UM203)","Université de Montpellier UFR Droit et Science Politique 39, rue de l'Université-34060-MONTPELLIER","marion.ubaud-bergeron@umontpellier.fr","6-Sciences humaines et humanités","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","Mme Fanny TARLET (directrice adjointe),
+Mme Pascale IDOUX (directrice)","Université de Montpellier UFR Droit et Science Politique 39  rue de l'Université-34060-MONTPELLIER",NA,NA
+"Unité propre","201119397R","Recherches sur les Suds et les Orients","RESO",NA,"UMPV-tutelle (EA 4582)","UNIVERSITE MONTPELLIER 3  Site Saint-Charles  Rue du Professeur H. Serre-34000-MONTPELLIER","celine.camisuli@univ-montp3.fr","6-Sciences humaines et humanités                                                                      7-Sciences de la société","SH5-Texts and Concepts : Literary studies, literature, philosophy","M. Fabrice QUERO ()","UNIVERSITE MONTPELLIER 3  Site Saint-Charles  Rue du Professeur H. Serre-34000-MONTPELLIER",NA,NA
+"Unité propre","202023518F","Langages HUmanités Médiations Apprentissages Interactions Numérique","LHUMAIN",NA,"UMPV-tutelle ( )","Route de Mende Cedex 5-34199-MONTPELLIER","secretariat.lhumain@univ-montp3.fr","6-Sciences humaines et humanités",NA,"Mme Nathalie AUGER (DIR)","Route de Mende Cedex 5-34199-MONTPELLIER",NA,NA
+"Unité mixte","199317956C","Innovation et Développement dans l'Agriculture et l'Alimentation","INNOVATION",NA,"CIRAD-tutelle (UMR 85),
+INRAE-tutelle (UMR 0951),
+Institut Agro-tutelle ( )","2  place Viala-34060-Montpellier",NA,"10-Sciences agronomiques et écologiques                                                                6-Sciences humaines et humanités","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law,
+SH1-Individuals, Markets and Organisations : Economics, finance, management,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","M. Jean-Marc TOUZARD (Directeur)","2  place Viala-34060-Montpellier",NA,NA
+"Unité propre","199113212E","INSTITUT DE RECHERCHE INTERSITE ETUDES CULTURELLES","IRIEC",NA,"UMPV-tutelle (EA 740),
+TOULOUSE 2-tutelle (EA 740)","UNIVERSITE PAUL VALERY Route de Mende-34199-MONTPELLIER CEDEX 05","secretariat.iriec@univ-montp3.fr","6-Sciences humaines et humanités                                                                      7-Sciences de la société","SH5-Texts and Concepts : Literary studies, literature, philosophy","M. Michel BOEGLIN ()","UNIVERSITE PAUL VALERY Route de Mende-34199-MONTPELLIER CEDEX 05",NA,NA
+"Groupements de Recherche","201020028F","AGROECOSYSTEMES, AGROBIODIVERSITES ET ENVIRONNEMENT. DOMESTICATON ET INNOVATIONS","MOSAÏQUE",NA,"LYON 2-tutelle (GDR 3353),
+Institut Agro-tutelle ( ),
+IRD-tutelle (GDR 3353),
+RENNES-tutelle (GDR 3353),
+UMPV-tutelle (GDR 3353),
+PARIS 10-tutelle (GDR 3353),
+INRAE-tutelle (GDR 3353),
+MUSEUM PARIS-tutelle (GDR 3353),
+MONTPELLIER-tutelle (GDR 3353),
+UniCA-tutelle (GDR 3353)","CNRS - CEFE 1919, route de Mende-34293-MONTPELLIER CEDEX 5","yildiz.thomas@cefe.cnrs.fr","6-Sciences humaines et humanités                                                                      10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","M. Yildiz THOMAS (DIR)","CNRS - CEFE 1919  route de Mende-34293-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200311857E","Institut de recherche sur la Renaissance, l'Age Classique et les Lumières","IRCL",NA,"CNRS-tutelle (UMR 5186),
+UMPV-tutelle (UMR 5186),
+MIN.CULT-tutelle ( )","Université Paul-Valéry, Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER","ircl@univ-montp3.fr","6-Sciences humaines et humanités","SH5-Texts and Concepts : Literary studies, literature, philosophy","Mme Florence MARCH (PR)","Université Paul-Valéry  Site Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER",NA,NA
+"Unité mixte","201822742W","Centre d'Economie de l'Environnement - Montpellier","CEE-M",NA,"MONTPELLIER-tutelle (UMR 5211),
+INRAE-tutelle (UMR 1135),
+CNRS-tutelle (UMR 5211),
+Institut Agro-tutelle ( )","INRAE - INSTITUT AGRO Bâtiment 26 2 Place Viala-34060-MONTPELLIER CEDEX 2","cee-m-contact@umontpellier.fr","7-Sciences de la société                                                                              10-Sciences agronomiques et écologiques                                                                6-Sciences humaines et humanités","SH1-Individuals, Markets and Organisations : Economics, finance, management,
+SH2-Institutions, Governance and Legal Systems : Political science, international relations, law,
+SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","Mme Julie SUBERVIE (directrice),
+Mme Emmanuelle LAVAINE (Directrice adjointe),
+M. Fabien PRIEUR (DIRECTEUR),
+M. Dimitri DUBOIS (Directeur adjoint)","INRAE - INSTITUT AGRO Bâtiment 26 2 Place Viala-34060-MONTPELLIER CEDEX 2",NA,NA
+"Unité propre","199113200S","Centre du Droit de l'Entreprise","CDE",NA,"MONTPELLIER-tutelle (UR UM201)","Université de Montpellier UFR Droit et Science Politique 39 rue de l'Universite-34060-MONTPELLIER CEDEX 1",NA,"6-Sciences humaines et humanités","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","M. Nicolas FERRIER (Directeur)","Université de Montpellier UFR Droit et Science Politique 39 rue de l'Universite-34060-MONTPELLIER CEDEX 1",NA,NA
+"Unité propre","202123674W","Laboratoire de Géographie et d'Aménagement de Montpellier","LAGAM",NA,"UMPV-tutelle ( )","Univerité Paul Valéry Route de Mende-34000-Montpellier",NA,"6-Sciences humaines et humanités","SH3-The Social World and Its Interactions : Sociology, social psychology, education sciences, communication studies","M. Frédéric LEONE (DIR)","Univerité Paul Valéry Route de Mende-34000-Montpellier",NA,NA
+"Unité propre","200515232P","Institut de Droit Européen des Droits de l'Homme","IDEDH",NA,"MONTPELLIER-tutelle (UR UM205)","Université de Montpellier UFR Droit et Science Politique 39, rue de l'Université-34060-MONTPELLIER",NA,"7-Sciences de la société","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","M. Christophe MAUBERNARD (directeur)","Université de Montpellier UFR Droit et Science Politique 39  rue de l'Université-34060-MONTPELLIER",NA,NA
+"Unité propre","201119475A","ECOSYSTÈMES MARINS EXPLOITÉS","EME",NA,"IRD-tutelle (UMR_D 212)","CRH Centre de Recherche Halieutique méditerranéenne et tropicale - - IRDAvenue Jean MonetB.P. 171-34203-SÈTE","philippe.cury@ird.fr","10-Sciences agronomiques et écologiques                                                                7-Sciences de la société",NA,"M. Philippe CURY (DIR)","CRH Centre de Recherche Halieutique méditerranéenne et tropicale - - IRDAvenue Jean MonetB.P. 171-34203-SÈTE",NA,NA
+"Unité propre","201321639U","Laboratoire Innovation Formes Architectures Milieux","LIFAM",NA,"EC. ARCHI. MONTPELLIER-tutelle ( )","École Nationale Supérieure d¿Architecture de Montpellier - 179 rue de l'esperou-34093-Montpellier cedex 5","elodie.cerdan@montpellier.archi.fr","7-Sciences de la société","SH5-Texts and Concepts : Literary studies, literature, philosophy","Mme Frédérique VILLEMUR ()","École Nationale Supérieure d¿Architecture de Montpellier - 179 rue de l'esperou-34093-Montpellier cedex 5",NA,NA
+"Unité mixte","200017843Z","Montpellier Interdisciplinary center on Sustainable Agri-food systems - social and nutritional sciences","MoISA",NA,"CIHEAM-tutelle ( ),
+CIRAD-tutelle (UMR 99),
+INRAE-tutelle (UMR 1110),
+IRD-tutelle (UMR 266),
+Institut Agro-tutelle ( )","2  place Viala-34060-Montpellier","paule.moustier@cirad.fr","7-Sciences de la société                                                                              10-Sciences agronomiques et écologiques","LS7-Prevention, Diagnosis and Treatment of Human Diseases : Medical technologies and tools for prevention, diagnosis and treatment of human diseases, therapeutic approaches and interventions, pharmacology, preventative medicine, epidemiology and public health, digital medicine,
+SH1-Individuals, Markets and Organisations : Economics, finance, management","Mme Isabelle PIOT-LEPETIT (Directrice adjointe),
+Mme Paule MOUSTIER (Directrice),
+Mme Michelle HOLDSWORTH (Directrice adjointe),
+Mme Lucie SIRIEIX (Directrice adjointe)","2  place Viala-34060-Montpellier",NA,NA
+"Unité propre","201822748C","Montpellier Recherche en Economie","MRE",NA,"MONTPELLIER-tutelle (UR UM209)","Université de Montpellier, avenue Raymond Dugrand UFR Economie CS 79606-34960-Montpellier","benoit.mulkay@umontpellier.fr","7-Sciences de la société","SH1-Individuals, Markets and Organisations : Economics, finance, management","M. Benoit MULKAY (DIRECTEUR)","Université de Montpellier  avenue Raymond Dugrand UFR Economie CS 79606-34960-Montpellier",NA,NA
+"Unité propre","199914315U","Ecole de Droit Social de Montpellier","EDSM",NA,"MONTPELLIER-tutelle (UR UM204)","Université de Montpellier UFR Droit et Science Politique 39, rue de l'Université-34060-MONTPELLIER CEDEX",NA,"7-Sciences de la société","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","Mme Florence BERGERON CANUT (Directrice)","Université de Montpellier UFR Droit et Science Politique 39  rue de l'Université-34060-MONTPELLIER CEDEX",NA,NA
+"Unité propre","201521276R","Communication, Ressources Humaines et Intervention Sociale","CORHIS",NA,"PERPIGNAN-participant ( ),
+UMPV-tutelle ( )","Université Paul-Valéry 3, Site de Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER","labo.corhis@univ-montp3.fr","7-Sciences de la société","SH1-Individuals, Markets and Organisations : Economics, finance, management,
+SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","M. Jean Michel PLANE ()","Université Paul-Valéry 3  Site de Saint-Charles Rue du Professeur Henri Serre-34000-MONTPELLIER",NA,NA
+"Unité propre","199513678U","Centre d'Etudes et de Recherches Comparatives Constitutionnelles et Politiques","CERCOP",NA,"MONTPELLIER-tutelle (UR UM202)","Université de Montpellier UFR Droit et Science Politique 39, rue de l'Universite-34060-MONTPELLIER CEDEX",NA,"7-Sciences de la société",NA,"M. Alexandre VIALA (Directeur),
+Mme Jordane ARLETTAZ (Directrice adjointe)","Université de Montpellier UFR Droit et Science Politique 39  rue de l'Universite-34060-MONTPELLIER CEDEX",NA,NA
+"Unité propre","202224202R","Laboratoire Innovation Communication et Marché","LICeM",NA,"MONTPELLIER-tutelle (UR_ UM213)","UFR DSP, 14 rue du Cardenal de Cabrières-34060-Montpellier",NA,"7-Sciences de la société","SH2-Institutions, Governance and Legal Systems : Political science, international relations, law","Mme Agnès ROBIN (Directrice adjointe)","UFR DSP  14 rue du Cardenal de Cabrières-34060-Montpellier",NA,NA
+"Unité mixte","199111950H","Laboratoire d'Informatique, de Robotique et de Microélectronique de Montpellier","LIRMM",NA,"UMPV-tutelle ( ),
+INRIA-tutelle ( ),
+MONTPELLIER-tutelle (UMR 5506),
+PERPIGNAN-tutelle ( ),
+CNRS-tutelle (UMR 5506)","Université de Montpellier 161 Rue Ada CC477-34095-MONTPELLIER CEDEX 5","directeur@lirmm.fr","8-Sciences pour l'ingénieur                                                                           9-Sciences et technologies de l'information et de la communication                                    10-Sciences agronomiques et écologiques                                                                7-Sciences de la société","PE6-Computer science and informatics : informatics and information systems, computer science, scientific computing, intelligent systems,
+PE7-Systems and communication engineering : Electrical, electronic, communication, optical and systems engineering","Mme Marianne HUCHARD (directrice),
+M. Christophe PAUL (Directeur adjoint),
+M. Abdoulaye GAMATIE (Directeur adjoint)","Université de Montpellier 161 Rue Ada CC477-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200711883R","Institut d'Electronique et des Systèmes","IES",NA,"MONTPELLIER-tutelle (UMR 5214),
+CNRS-tutelle (UMR 5214)","Université de Montpellier 860 rue St Priest CC5001-34095-MONTPELLIER CEDEX 5",NA,"9-Sciences et technologies de l'information et de la communication                                    8-Sciences pour l'ingénieur","PE7-Systems and communication engineering : Electrical, electronic, communication, optical and systems engineering,
+PE3-Condensed matter physics : structure, electronic properties, fluids, nanosciences, biological physics,
+PE8-Products and Processes Engineering : Product and process design, chemical, civil, environmental, mechanical, vehicle engineering, energy processes and relevant computational methods","M. Petru NOTINGHER (Directeur adjoint),
+M. Philippe COMBETTE (Directeur)","Université de Montpellier 860 rue St Priest CC5001-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité propre","201321279C","Biomasse, Bois, Energie, Bioproduits","BioWooEB",NA,"CIRAD-tutelle (UPR 114)","Maison de la technologie, 73 Rue Jean-François Breton-34398-Montpellier Cedex 5","dirbiowooeb@cirad.fr","10-Sciences agronomiques et écologiques                                                                8-Sciences pour l'ingénieur","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Jean-Michel COMMANDRE (Directeur)","Maison de la technologie  73 Rue Jean-François Breton-34398-Montpellier Cedex 5",NA,NA
+"Groupements de Recherche","200619960Z","SYSTEM ON CHIP - SYSTEM IN PACKAGE","SOC-SIP",NA,"CNRS-tutelle (GDR 2995)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 Dpéartement de Microélectronique 161, rue Ada-34392-MONTPELLIER CEDEX 5","robert@lirmm.fr","9-Sciences et technologies de l'information et de la communication                                    8-Sciences pour l'ingénieur",NA,"M. Michel ROBERT (DIR)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 Dpéartement de Microélectronique 161  rue Ada-34392-MONTPELLIER CEDEX 5",NA,NA
+"Groupements de Recherche","201020035N","ERRATA",NA,NA,"CNRS-tutelle (GDR 3369)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 CC 84 Place Eugène Bataillon-34095-MONTPELLIER CEDEX 5","frederic.saigne@ies.univ-montp2.fr","9-Sciences et technologies de l'information et de la communication",NA,"M. Frédéric SAIGNE (DIR)","UNIVERSITE SCIENCES ET TECHNIQUES DU LANGUEDOC MONTPELLIER 2 CC 84 Place Eugène Bataillon-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","200317641S","botAnique et Modélisation de l'Architecture des Plantes et des végétations","AMAP",NA,"IRD-tutelle (UMR 5120),
+MONTPELLIER-tutelle (UMR 5120),
+CNRS-tutelle (UMR 5120),
+INRAE-tutelle (UMR 0931),
+CIRAD-tutelle (UMR 51)","CIRAD Bd de la Lironde-34398-MONTPELLIER CEDEX 5","diramap@cirad.fr","9-Sciences et technologies de l'information et de la communication                                    10-Sciences agronomiques et écologiques","PE10-Earth System Science : Physical geography, geology, geophysics, atmospheric sciences, oceanography, climatology, cryology, ecology, global environmental change, biogeochemical cycles, natural resources management,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","Mme Alexia STOKES (Directrice adjointe),
+M. Marc JAEGER (Directeur adjoint),
+M. Raphael PELISSIER (DIRECTEUR)","CIRAD Bd de la Lironde-34398-MONTPELLIER CEDEX 5",NA,NA
+"Unité mixte","195817959H","Institut des Sciences des Plantes de Montpellier (ex - BPMP - Biochimie et Physiologie Moléculaire des Plantes)","IPSiM",NA,"CNRS-tutelle (UMR 5004),
+Institut Agro-tutelle ( ),
+INRAE-tutelle (UMR 0386),
+MONTPELLIER-tutelle (UMR 5004)","2 Place Viala-34060-MONTPELLIER CEDEX 2",NA,"10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches","M. Stéphane MARI (Directeur adjoint),
+M. Christophe MAUREL (Directeur)","2 Place Viala-34060-MONTPELLIER CEDEX 2",NA,NA
+"Unité mixte","197717799B","Laboratoire d'Écophysiologie des Plantes sous Stress environnementaux","LEPSE",NA,"Institut Agro-tutelle ( ),
+INRAE-tutelle (UMR 0759)","2  place Viala-34060-MONTPELLIER",NA,"10-Sciences agronomiques et écologiques",NA,"M. Pierre MARTRES (Directeur),
+Mme Myriam DAUZAT (Directrice adjointe)","2  place Viala-34060-MONTPELLIER",NA,NA
+"Unité mixte","200117391D","Sciences Pour l'Oenologie","SPO",NA,"INRAE-tutelle (UMR 1083),
+MONTPELLIER-tutelle (UMR 1083),
+Institut Agro-tutelle ( )","Inrae - Campus de la Gaillarde Supagro -  2 place Viala-34060-Montpellier","fabienne.remize@inrae.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","Mme Agnès AGEORGES (Directrice adjointe),
+Mme Fabienne REMIZE (Directrice)","Inrae - Campus de la Gaillarde Supagro -  2 place Viala-34060-Montpellier",NA,NA
+"Unité propre","199917740S","Domaine Expérimental de Vassal","VASSAL",NA,"INRAE-tutelle (UE 1057)","route de Sète-34340-MARSEILLAN-PLAGE",NA,"10-Sciences agronomiques et écologiques",NA,"Mme Anne MOCOEUR (Directrice)","route de Sète-34340-MARSEILLAN-PLAGE",NA,NA
+"Unité propre","200718430G","Recyclage et risque",NA,NA,"CIRAD-tutelle (UPR 78)","Avenue Agropolis-34398-Montpellier Cedex 5","dir-recyclage@cirad.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Frédéric FEDER (Directeur),
+M. Tom WASSENAAR (Directeur adjoint)","Avenue Agropolis-34398-Montpellier Cedex 5",NA,NA
+"Unité propre","201021280S","Forêts et Sociétés",NA,NA,"CIRAD-tutelle (UPR 105)","Campus international de Baillarguet-34398-Montpellier Cedex 5",NA,"10-Sciences agronomiques et écologiques","LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","M. Plinio SIST (Directeur),
+M. Valéry GOND (Directeur adjoint)","Campus international de Baillarguet-34398-Montpellier Cedex 5",NA,NA
+"Structures Fédératives de Recherche","200617700T","Agropolis Fondation, Réseau thématique de recherche avancée, agronomie et développement durable",NA,NA,"Institut Agro-tutelle ( ),
+IRD-tutelle (RTRA ),
+INRAE-tutelle (RTRA ),
+MONTPELLIER-tutelle ( ),
+CIRAD-tutelle (RTRA )","Avenue Agropolis-34394-Montpellier Cedex 5","agropolis-fondation@agropolis.fr","10-Sciences agronomiques et écologiques",NA,"Mme Marie-Christine CORMIER-SALEM (Directrice)","Avenue Agropolis-34394-Montpellier Cedex 5",NA,NA
+"Unité mixte","199817893M","Centre de Biologie pour la Gestion des Populations","CBGP",NA,"CIRAD-tutelle (UMR 55),
+INRAE-tutelle (UMR 1062),
+IRD-tutelle (UMR 22),
+Institut Agro-tutelle ( )","CS 30016-34988-Montferrier Sur Lez","dircbgp@supagro.inra.fr","10-Sciences agronomiques et écologiques","LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine,
+LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling","M. Renaud VITALIS (Directeur),
+Mme Karine BROUAT (Directrice adjointe)","CS 30016-34988-Montferrier Sur Lez",NA,NA
+"Unité mixte","199917859W","Ecologie Fonctionnelle et Biogéochimie des Sols et Agrosystèmes","Eco&Sols",NA,"Institut Agro-tutelle ( ),
+CIRAD-tutelle (UMR 111),
+IRD-tutelle (UMR 210),
+INRAE-tutelle (UMR 1222)","2  place Viala-34060-Montpellier","eco-sols@ird.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards",NA,"2  place Viala-34060-Montpellier",NA,NA
+"Unité mixte","200118630A","Technologies et méthodes pour les agricultures de demain","ITAP",NA,"Institut Agro-tutelle ( ),
+INRAE-tutelle (UR 1463)","361 RUE JEAN-FRANCOIS BRETON - BP 5095 --34196-MONTPELLIER",NA,"10-Sciences agronomiques et écologiques",NA,"Mme Eléonore LOISEAU (Directrice adjointe),
+M. Ryad BENDOULA (Directeur),
+M. Bruno TISSEYRE (Directeur adjoint)","361 RUE JEAN-FRANCOIS BRETON - BP 5095 --34196-MONTPELLIER",NA,NA
+"Unité mixte","200317667V","Ingénierie des Agropolymères et Technologies Emergentes","IATE",NA,"Institut Agro-tutelle ( ),
+MONTPELLIER-tutelle (UMR 1208),
+INRAE-tutelle (UMR 1208)","Campus de la Gaillarde Supagro/INRA 2 place Viala-34060-Montpellier","umr-iate-direction@supagro.fr","10-Sciences agronomiques et écologiques","PE8-Products and Processes Engineering : Product and process design, chemical, civil, environmental, mechanical, vehicle engineering, energy processes and relevant computational methods,
+LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Jean-Yves DELENNE (directeur),
+Mme Maeva SUBILEAU (Directrice adjointe),
+M. Stéphane PEYRON (Directeur adjoint),
+Mme Rallou THOMOPOULOS (Directrice adjointe)","Campus de la Gaillarde Supagro/INRA 2 place Viala-34060-Montpellier",NA,NA
+"Unité mixte","200317824R","Agrosystèmes Biodiversifiés","ABSYS",NA,"CIHEAM-tutelle ( ),
+INRAE-tutelle (UMR 1230),
+Institut Agro-tutelle ( ),
+CIRAD-tutelle (UMR 66)","2  place Viala-34060-Montpellier","umr-system-direction@supagro.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards",NA,"2  place Viala-34060-Montpellier",NA,NA
+"Unité propre","198217748Z","DIASCOPE - Domaine Expérimental de Melgueil","DiaScope",NA,"INRAE-tutelle (UE 0398)","Domaine de Melgueil - Chemin de Mezouls-34130-MAUGUIO",NA,"10-Sciences agronomiques et écologiques",NA,"Mme Florence MEUNIER (Directrice)","Domaine de Melgueil - Chemin de Mezouls-34130-MAUGUIO",NA,NA
+"Unité propre","200718232S","Analyses des eaux, sols et végétaux","ANALYSES",NA,"CIRAD-tutelle (US 49)","Avenue Agropolis - TA B-49 / 01-34398-Montpellier Cedex 5","christiane.sorbs@cirad.fr","10-Sciences agronomiques et écologiques",NA,"Mme Marie TELLA (Directrice)","Avenue Agropolis - TA B-49 / 01-34398-Montpellier Cedex 5",NA,NA
+"Unité propre","200818241X","Fonctionnement agroécologique et performances des systèmes de culture horticoles","HORTSYS",NA,"CIRAD-tutelle (UPR 103)","Boulevard de la Lironde - TA B-103/PS4-34398-Montpellier Cedex 5",NA,"10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Fabrice LE BELLEC (Directeur),
+M. Pascal DANTHU (Directeur adjoint),
+M. Thibaud MARTIN (Directeur adjoint)","Boulevard de la Lironde - TA B-103/PS4-34398-Montpellier Cedex 5",NA,NA
+"Unité propre","200921747D","Ecotron européen de Montpellier",NA,NA,"CNRS-tutelle (UAR 3248)","CNRS, Campus de Baillarguet, 1 Chemin du Rioux-34980-MONTFERRIER SUR LEZ","alex.milcu@ecotron.cnrs.fr","10-Sciences agronomiques et écologiques",NA,"M. Ionut Alexandru MILCU (DIR)","CNRS  Campus de Baillarguet  1 Chemin du Rioux-34980-MONTFERRIER SUR LEZ",NA,NA
+"Unité mixte","200817995E","Animal, Santé, Territoires, Risques et Ecosystèmes","ASTRE",NA,"INRAE-tutelle (UMR 1309),
+CIRAD-tutelle (UMR 117)","CS 30016-34988-Montferrier Sur Lez",NA,"10-Sciences agronomiques et écologiques",NA,"Mme Marie-Isabelle PEYRE (Directrice adjointe),
+M. Eric CARDINALE (Directeur adjoint),
+Mme Nathalie VACHIERY (Directrice)","CS 30016-34988-Montferrier Sur Lez",NA,NA
+"Unité mixte","201119637B","Institut Amélioration Génétique et Adaptation des Plantes méditerranéennes et Tropicales","AGAP",NA,"Institut Agro-tutelle ( ),
+MONTPELLIER-tutelle ( ),
+INRAE-tutelle (UMR 1334),
+INRIA-participant ( ),
+CIRAD-tutelle (UMR 108)","Cirad - Avenue Agropolis-34398-Montpellier cedex 5","diragap@cirad.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Gilbert TROUCHE (Directeur adjoint),
+Mme Claire BILLOT (Directrice),
+M. Manuel RUIZ (Directeur adjoint)","Cirad - Avenue Agropolis-34398-Montpellier cedex 5",NA,NA
+"Unité mixte","202424498D","Montpellier Ecologie Evolution Biodiversité","MEEB",NA,"MONTPELLIER-tutelle ( ),
+CNRS-tutelle (UAR 2040)","UNIV MONTPELLIER, site du Triolet - Bât 22 , place Eugène Bataillon-34095-MONTPELLIER CEDEX 5","isem-direction@umontpellier.fr","10-Sciences agronomiques et écologiques",NA,"Mme Agnès MIGNOT (DIR)","UNIV MONTPELLIER  site du Triolet - Bât 22   place Eugène Bataillon-34095-MONTPELLIER CEDEX 5",NA,NA
+"Unité propre","200718219C","Fonctionnement écologique et gestion durable des agrosystèmes bananiers et ananas","GECO",NA,"CIRAD-tutelle (UPR 26)","Boulevard de la Lironde - TA B-26 / PS4-34398-Montpellier Cedex 5",NA,"10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards,
+LS3-Cell Biology, Development, Stem Cells and Regeneration : Structure and function of the cell, cell-cell communication, embryogenesis, tissue differentiation, organogenesis, growth, development, evolution of development, organoids, stem cells, regeneration, therapeutic approaches","M. Philippe TIXIER (Directeur adjoint),
+Mme Gaelle DAMOUR (Directrice adjointe),
+M. Luc DE LAPEYRE (Directeur)","Boulevard de la Lironde - TA B-26 / PS4-34398-Montpellier Cedex 5",NA,NA
+"Unité propre","201421281A","Agro-écologie et Intensification Durable des cultures Annuelles","AIDA",NA,"CIRAD-tutelle (UPR 115)","Avenue Agropolis-34398-Montpellier Cedex 5","diraida@cirad.fr","10-Sciences agronomiques et écologiques","LS9-Biotechnology and Biosystems Engineering : Biotechnology using all organisms, biotechnology for environment and food applications, applied plant and animal sciences, bioengineering and synthetic biology, biomass and biofuels, biohazards","M. Gerardeaux EDWARD (Directeur adjoint),
+M. Krishna NAUDIN (Directeur)","Avenue Agropolis-34398-Montpellier Cedex 5",NA,NA
+"Unité mixte","197217858M","Laboratoire d'étude des Interactions Sol - Agrosystème - Hydrosystème","LISAH",NA,"AGROPARISTECH-tutelle ( ),
+INRAE-tutelle (UMR 1221),
+IRD-tutelle (UMR 144),
+Institut Agro-tutelle ( )","2 place Viala-34060-Montpellier","umr-lisah-direction@supagro.fr","10-Sciences agronomiques et écologiques",NA,"M. Frédéric JACOB (Directeur adjoint),
+M. Jean-Stéphane BAILLY (Directeur)","2 place Viala-34060-Montpellier",NA,NA
+"Unité mixte","198217965K","Mathématiques, Informatique et Statistique pour l'Environnement et l'Agronomie","MISTEA",NA,"INRAE-tutelle (UMR 0729),
+Institut Agro-tutelle ( )","2  place Viala-34060-MONTPELLIER",NA,"10-Sciences agronomiques et écologiques",NA,"M. Nicolas VERZELEN (Directeur adjoint),
+M. Bertrand CLOEZ (Directeur adjoint),
+Mme Céline CASENAVE (Directrice),
+M. Philippe VISMARA (Directeur adjoint)","2  place Viala-34060-MONTPELLIER",NA,NA
+"Unité mixte","202123745Y","Plant Health Institute of Montpellier","PHIM",NA,"INRAE-tutelle (UMR 0385),
+MONTPELLIER-tutelle (UMR  265),
+Institut Agro-tutelle ( ),
+CIRAD-tutelle ( ),
+IRD-tutelle (UMR 265)","CIRAD Campus International de Baillarguet TA A-54/K-34398-Montpellier","phim-dir@cirad.fr","10-Sciences agronomiques et écologiques","LS8-Environmental Biology, Ecology and Evolution : Ecology, biodiversity, environmental change, evolutionary biology, behavioural ecology, microbial ecology, marine biology, ecophysiology, theoretical developments and modelling,
+LS2-Integrative Biology: from Genes and Genomes to Systems : Genetics, epigenetics, genomics and other ‘omics studies, bioinformatics, systems biology, genetic diseases, gene editing, innovative methods and modelling, ‘omics for personalised medicine","M. Jean Benoit MOREL (DIR)","CIRAD Campus International de Baillarguet TA A-54/K-34398-Montpellier",NA,NA

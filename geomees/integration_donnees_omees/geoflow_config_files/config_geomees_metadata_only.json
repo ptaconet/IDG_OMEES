@@ -1,0 +1,58 @@
+{
+  "id": "omees-publication-workflow-nospatial-data",
+  "mode": "entity",
+  "metadata": {
+    "entities": {
+      "handler": "excel",
+      "source": "/home/ptaconet/IDG_OMEES/geomees/integration_donnees_omees/geoflow_entities/entities_metadata_only.xlsx"
+    },
+    "contacts": {
+      "handler": "excel",
+      "source": "/home/ptaconet/IDG_OMEES/geomees/integration_donnees_omees/geoflow_entities/contacts.xlsx"
+    }
+  },
+  "software": [
+    {
+      "id": "omees-geonetwork",
+      "type": "output",
+      "software_type": "geonetwork",
+      "parameters": {
+        "url": "",
+        "user": "",
+        "pwd": "",
+        "version": "4.2.8",
+        "logger": "DEBUG"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "id": "geometa-create-iso-19115",
+      "options": {
+        "logo": true
+      },
+      "run": true
+    },
+    {
+      "id": "geonapi-publish-iso-19139",
+      "options": {
+        "publish_thumbnails": true
+      },
+      "run": true
+    }
+  ],
+  "profile": {
+    "id": "my-workflow-identifier",
+    "name": "My workflow",
+    "project": "Test geoflow omees not spatial data",
+    "organization": "Observatoire Montpellierain en Ecologie et Evolution de la Santé",
+    "mode": "entity",
+    "logos": [
+      "https://www.fredonoccitanie.com/jevi/wp-content/uploads/sites/2/2026/06/logo_OMEES.png"
+    ],
+    "options": {
+      "line_separator": "_\n",
+      "skipDataDownload": true
+    }
+  }
+}

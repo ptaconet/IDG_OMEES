@@ -4,6 +4,7 @@ library(jsonlite)
 
 source("geomees/credentials_geomees.R")
 
+
 geomees_prod_or_bacasable <- "bacasable"  # "prod" ou "bacasable"
 
 
